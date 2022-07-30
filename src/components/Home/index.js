@@ -27,62 +27,62 @@ const Home = () => {
             <div className="bookshelf-container">
                 <div className="bookshelf">
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews1" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews2" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews3" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews4" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews5" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews6" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews7" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews8" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews9" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews10" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews11" className="book-cover">
                             
                         </a>
                     </div>
                     <div className="book">
-                        <a href="/" className="book-cover">
+                        <a href="/reviews12" className="book-cover">
                             
                         </a>
                     </div>

@@ -2,7 +2,7 @@ import './index.scss';
 
 const Reviews = () => {
     return (
-        <></>
+        <>This a review</>
     );
 };
 
