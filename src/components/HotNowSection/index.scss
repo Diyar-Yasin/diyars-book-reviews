@@ -1,0 +1,61 @@
+.hot-now-section {
+    font-family: 'Inconsolata', monospace;
+    margin-left: 10%;
+    margin-bottom: 2%;
+    
+
+    .hot-now-title {
+        margin-left: 2%;
+        font-size: 24px;
+        font-weight: 600;
+        color: black;
+    }
+
+    p {
+        padding-bottom: 1%;
+        font-size: 18px;
+        color: #A44A3F;
+    }
+
+    .hot-now-items-container {
+        display: flex;
+        justify-content: space-evenly;
+        margin-left: -10%;
+
+        .hot-now-item {
+            display: inline;
+            position: relative;
+            background-color: black;
+            width: 30%;
+            padding-top: 30%;
+            height: 0;
+            box-shadow: 0 6px 12px 12px rgba(0, 0, 0, 0.1);
+            transform: scale(1);
+            transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
+
+            .hot-now-item-content {
+                position: absolute;
+                top: 2%;
+                left: 2%;
+
+                img {
+                    object-fit: cover;
+                    height: 98%;
+                    width: 98%;
+                }
+
+                Link {
+                    object-fit: cover;
+                    height: 98%;
+                    width: 98%;
+                }
+
+            }
+        }
+
+        .hot-now-item:hover {
+            transform: scale(1.01);
+            transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
+        }
+    }
+}

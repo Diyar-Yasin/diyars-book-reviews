@@ -7,33 +7,15 @@
 * {
     margin: 0;
     padding: 0;
-        
+    
     .main {
+        background-color: #FFF;
+
         .header {
-            height: 20%;
             text-align: center;
-            background-color: aquamarine;
-        }
-
-        .hot-now-section {
-            height: 20%;
-            background-color: beige;
-
-            .hot-now-items-container {
-                background-color: red;
-            }
-        }
-
-        .about-me {
-            background-color: bisque;
-
-            .about-me-button {
-                color:black;
-            }
-        }
-        
-        .search {
-            background-color: blueviolet;
+            font-family: 'Benne', serif;
+            font-size: large;
+            color: black;
         }
         
         .bookshelf-container {
@@ -67,7 +49,7 @@
                     height: 5%;
                     padding-bottom: 150%;
                     perspective: 1000px;
-            
+                    
                     .book-cover {
                         position: absolute;
                         z-index: 1;
@@ -76,6 +58,7 @@
                         width: 100%;
                         height: 100%;
                         overflow: hidden;
+                        border: solid 5px black;
                         
                         background-size: cover;
                         perspective-origin: 50% 50%;
