@@ -32,6 +32,7 @@
             box-shadow: 0 6px 12px 12px rgba(0, 0, 0, 0.1);
             transform: scale(1);
             transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
+            cursor: pointer;
 
             .hot-now-item-content {
                 position: absolute;

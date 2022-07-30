@@ -24,6 +24,10 @@
             display: flex;
             justify-content: center;
             align-items: center;
+
+            @include media {
+                padding-top: 20%;
+            }
         
             .bookshelf {
                 display: grid;
@@ -49,6 +53,7 @@
                     height: 5%;
                     padding-bottom: 150%;
                     perspective: 1000px;
+                    cursor: pointer;
                     
                     .book-cover {
                         position: absolute;
