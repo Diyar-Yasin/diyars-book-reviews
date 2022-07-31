@@ -6,7 +6,7 @@ import { Reviews } from "./../../data/reviews";
 import { useNavigate } from "react-router-dom";
 
 const Home = () => {
-    let navigate = useNavigate();
+    const navigate = useNavigate();
 
     return (
         <div className="main">
@@ -21,8 +21,8 @@ const Home = () => {
             <div className="bookshelf-container">
                 <div className="bookshelf">
                     {
-                        Reviews.map((item) => (
-                            <div className="book" onClick={() => navigate("/reviews" + item.key)}>
+                        Reviews.map((item, i) => (    
+                            <div className="book" onClick={() => navigate("reviews" + item.key, { state: { id: 1, reviewData: item }})}>
                                 <img className="book-cover" src={item.images.main} alt={item.name}/>
                             </div>
                         ))
