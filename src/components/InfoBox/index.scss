@@ -1,0 +1,16 @@
+@mixin media() {
+    @media (max-width: 686px) {
+        @content;
+    }
+}
+
+.info-box {
+    font-family: 'Inconsolata', monospace;
+    padding: 35% 0;
+    font-size: 22px;
+
+    @include media {
+        padding-top: 200%;
+    }
+}
+

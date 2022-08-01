@@ -1,0 +1,64 @@
+.review {
+    height: 100%;
+
+    .heading {
+        font-family: 'Benne', serif;
+        justify-content: center;
+        background-color: #010B13;
+        text-align: center;
+        color: white;
+        font-size: 48px;
+
+        .back-button {
+            position: absolute;
+            top: 1%;
+            left: 1%;
+
+            transform: scale(1);
+            transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
+        }
+
+        .back-button:hover {
+            color: #A44A3F;
+            transform: scale(1.1);
+            transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
+        }
+
+        .review-image {
+            position: absolute;
+            top: 10%;
+        }
+    }
+
+    .review-content {
+        position: absolute;
+        top: 10%;
+        display: grid;
+        justify-items: center;
+        grid-template-columns: 1fr 2fr 1fr;
+        grid-template-rows: 1fr 1fr;
+        width: 100%;
+
+        .review-image {
+            width: 200px;
+            height: auto;
+
+            transform: scale(1);
+            transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
+        }
+
+        .review-image:hover {
+            transform: scale(1.01);
+            transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
+            opacity: 0.2;
+        }
+
+        .content-body {
+            font-family: 'Inconsolata', monospace;
+            font-size: 24px;
+            color: black;
+            text-align: center;
+            margin-top: 50px;
+        }   
+    }
+}

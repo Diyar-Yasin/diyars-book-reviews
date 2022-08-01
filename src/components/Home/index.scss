@@ -26,7 +26,7 @@
             align-items: center;
 
             @include media {
-                padding-top: 180%;
+                padding-top: 100%;
             }
         
             .bookshelf {
@@ -44,7 +44,7 @@
 
                 @include media {
                     grid-template-columns: repeat(3, 1fr);
-                    padding-top: 180%;
+                    padding-top: 100%;
                 }
         
                 .book {

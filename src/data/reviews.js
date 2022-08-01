@@ -1,3 +1,4 @@
+// Main Images
 import TOKYO_GHOUL_RE from "./../assets/BookCovers/TokyoGhoulReCover.jpg";
 import COMPLETE_CTHULHU_MYTHOS_TALES from './../assets/BookCovers/TheCompleteCthulhuMythosTales.jpg';
 import CHAINSAW_MAN from './../assets/BookCovers/ChainSawManCover.jpg';
@@ -28,6 +29,9 @@ import RUNAWAY_HORSES from './../assets/BookCovers/RunawayHorses.jpg';
 import THE_TEMPLE_OF_DAWN from './../assets/BookCovers/TheTempleOfDawn.jpg';
 import THE_DECAY_OF_THE_ANGEL from './../assets/BookCovers/TheDecayOfTheAngel.jpg';
 
+// Extra Images
+import TOKYO_GHOUL_RE_EXTRA from './../assets/ReviewPageExtraImages/TokyoGhoulReExtra.jpg';
+
 export const Reviews = [
   {
     "key": "-tokyo-ghoul",
@@ -36,8 +40,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Dark fantasy, Thriller",
     "images": {
-      "main": TOKYO_GHOUL_RE
-    }
+      "main": TOKYO_GHOUL_RE,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": "If you haven't already read the original Tokyo Ghoul series this continues the story from there." 
   },
   {
     "key": "-complete-cthulhu-mythos-tales",
@@ -46,8 +52,10 @@ export const Reviews = [
     "rating": 5,
     "genres": "Horror fiction",
     "images": {
-      "main": COMPLETE_CTHULHU_MYTHOS_TALES
-    }
+      "main": COMPLETE_CTHULHU_MYTHOS_TALES,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-chainsaw-man",
@@ -56,8 +64,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Horror fiction",
     "images": {
-      "main": CHAINSAW_MAN
-    }
+      "main": CHAINSAW_MAN,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-a-brief-history-of-time",
@@ -66,8 +76,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Popular science",
     "images": {
-      "main": A_BRIEF_HISTORY_OF_TIME
-    }
+      "main": A_BRIEF_HISTORY_OF_TIME,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-american-psycho",
@@ -76,8 +88,10 @@ export const Reviews = [
     "rating": 1,
     "genres": "Satire, Horror fiction, Postmodern literature, Dark comedy, Psychological Fiction, Transgressive fiction",
     "images": {
-      "main": AMERICAN_PSYCHO
-    }
+      "main": AMERICAN_PSYCHO,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-becoming",
@@ -86,8 +100,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Memoir",
     "images": {
-      "main": BECOMING
-    }
+      "main": BECOMING,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-born-a-crime",
@@ -96,8 +112,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Autobiography",
     "images": {
-      "main": BORN_A_CRIME
-    }
+      "main": BORN_A_CRIME,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-i-am-legend",
@@ -106,8 +124,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Horror",
     "images": {
-      "main": I_AM_LEGEND
-    }
+      "main": I_AM_LEGEND,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-no-longer-human",
@@ -116,8 +136,10 @@ export const Reviews = [
     "rating": 5,
     "genres": "Fiction",
     "images": {
-      "main": NO_LONGER_HUMAN
-    }
+      "main": NO_LONGER_HUMAN,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-odyssey",
@@ -126,8 +148,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Epic poetry",
     "images": {
-      "main": THE_ODYSSEY
-    }
+      "main": THE_ODYSSEY,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-silent-patient",
@@ -136,8 +160,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Thriller, Novel, Mystery, Psychological thriller, Suspense, Psychological Fiction",
     "images": {
-      "main": THE_SILENT_PATIENT
-    }
+      "main": THE_SILENT_PATIENT,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-subtle-art-of-not-giving-a-fuck",
@@ -146,8 +172,10 @@ export const Reviews = [
     "rating": 2,
     "genres": "Self-help",
     "images": {
-      "main": THE_SUBTLE_ART_OF_NOT_GIVING_A_FUCK
-    }
+      "main": THE_SUBTLE_ART_OF_NOT_GIVING_A_FUCK,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-uncle-tom's-cabin",
@@ -156,8 +184,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Novel",
     "images": {
-      "main": UNCLE_TOMS_CABIN
-    }
+      "main": UNCLE_TOMS_CABIN,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-a-wild-sheep-chase",
@@ -166,8 +196,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Surreal novel, magical realism",
     "images": {
-      "main": A_WILD_SHEEP_CHASE
-    }
+      "main": A_WILD_SHEEP_CHASE,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-circe",
@@ -176,8 +208,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Historical Fiction, Fantasy Fiction",
     "images": {
-      "main": CIRCE
-    }
+      "main": CIRCE,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-exhalation",
@@ -186,8 +220,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Science fiction, Metaphysical fiction",
     "images": {
-      "main": EXHALATION
-    }
+      "main": EXHALATION,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-in-order-to-live",
@@ -196,8 +232,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Biography, Autobiography",
     "images": {
-      "main": IN_ORDER_TO_LIVE
-    }
+      "main": IN_ORDER_TO_LIVE,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-klara-and-the-sun",
@@ -206,8 +244,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Science fiction, Dystopian",
     "images": {
-      "main": KLARA_AND_THE_SUN
-    }
+      "main": KLARA_AND_THE_SUN,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-remains-of-the-day",
@@ -216,8 +256,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Historical novel",
     "images": {
-      "main": THE_REMAINS_OF_THE_DAY
-    }
+      "main": THE_REMAINS_OF_THE_DAY,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-life-for-sale",
@@ -226,8 +268,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Dark comedy, Satire",
     "images": {
-      "main": LIFE_FOR_SALE
-    }
+      "main": LIFE_FOR_SALE,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-one-bright-moon",
@@ -236,8 +280,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Biography, Autobiography",
     "images": {
-      "main": ONE_BRIGHT_MOON
-    }
+      "main": ONE_BRIGHT_MOON,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-wind-up-bird-chronicle",
@@ -246,8 +292,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Novel, Science fiction, Psychological Fiction, Fantastique",
     "images": {
-      "main": THE_WIND_UP_BIRD_CHRONICLE
-    }
+      "main": THE_WIND_UP_BIRD_CHRONICLE,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-song-of-achilles",
@@ -256,8 +304,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Novel, Romance novel, Historical Fiction",
     "images": {
-      "main": THE_SONG_OF_ACHILLES
-    }
+      "main": THE_SONG_OF_ACHILLES,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-why-we-sleep",
@@ -266,8 +316,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Science book",
     "images": {
-      "main": WHY_WE_SLEEP
-    }
+      "main": WHY_WE_SLEEP,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-q_n_a",
@@ -276,8 +328,10 @@ export const Reviews = [
     "rating": 4,
     "genres": "Drama",
     "images": {
-      "main": Q_N_A
-    }
+      "main": Q_N_A,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-spring-snow",
@@ -286,8 +340,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": SPRING_SNOW
-    }
+      "main": SPRING_SNOW,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-runaway-horses",
@@ -296,8 +352,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": RUNAWAY_HORSES
-    }
+      "main": RUNAWAY_HORSES,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-temple-of-dawn",
@@ -306,8 +364,10 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": THE_TEMPLE_OF_DAWN
-    }
+      "main": THE_TEMPLE_OF_DAWN,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   },
   {
     "key": "-the-decay-of-the-angel",
@@ -316,7 +376,9 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": THE_DECAY_OF_THE_ANGEL
-    }
+      "main": THE_DECAY_OF_THE_ANGEL,
+      "extra": TOKYO_GHOUL_RE_EXTRA
+    },
+    "content": ""
   }
 ];
