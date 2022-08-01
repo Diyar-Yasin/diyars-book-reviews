@@ -12,7 +12,7 @@ const Searchbar = () => {
     const onSearch = (searchItem) => {
         setUserInput(searchItem.name);
 
-        navigate("/reviews" + searchItem.key, { state: { id: 1, reviewData: searchItem }});
+        navigate("/bookreviewwebsite-v2/reviews" + searchItem.key, { state: { id: 1, reviewData: searchItem }});
     }
 
     const getMatchedResults = () => {

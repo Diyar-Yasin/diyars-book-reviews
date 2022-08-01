@@ -22,7 +22,7 @@ const Home = () => {
                 <div className="bookshelf">
                     {
                         Reviews.map((item, i) => (    
-                            <div className="book" onClick={() => navigate("/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
+                            <div className="book" onClick={() => navigate("/bookreviewwebsite-v2/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
                                 <img className="book-cover" src={item.images.main} alt={item.name}/>
                             </div>
                         ))
