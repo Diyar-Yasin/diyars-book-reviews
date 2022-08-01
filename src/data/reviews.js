@@ -39,7 +39,7 @@ export const Reviews = [
     "images": {
       "main": TOKYO_GHOUL_RE
     },
-    "content": "If you haven't already read the original Tokyo Ghoul series this continues the story from there." 
+    "content": "If you haven't already read the original Tokyo Ghoul series this continues the story from there. I am still reading this series, but you should take this chance to join me!" 
   },
   {
     "key": "-complete-cthulhu-mythos-tales",
@@ -61,7 +61,7 @@ export const Reviews = [
     "images": {
       "main": CHAINSAW_MAN
     },
-    "content": ""
+    "content": "I am still reading this series, but you should take this chance to join me!"
   },
   {
     "key": "-a-brief-history-of-time",
@@ -72,7 +72,7 @@ export const Reviews = [
     "images": {
       "main": A_BRIEF_HISTORY_OF_TIME
     },
-    "content": ""
+    "content": "Whether you have any large background in physics or not, this book is packed with interesting content that makes you wonder why high school physics wasn’t this fun. This is really the best compliment I can give this book. Professor Hawking expertly illustrates concepts like space-time and quantum physics in a way that is easily digestible by audiences as young as high schoolers (which is when I read it). There isn’t much else to say here, so I’ll tell you about the part that left the largest impact on me. Hawking describes the double-slit experiment, a simple procedure where light is shone onto a paper with two spaced slits and a wall behind it. He concludes the chapter at the climactic realization that a light particle must exist in two different places at the same time for the experiment to make any sense. This stunningly simple experiment, followed by the reasoning to reach this inherently obtuse idea, left me speechless. Well not really, I wasn’t reading out loud or anything. You get it."
   },
   {
     "key": "-american-psycho",
@@ -83,7 +83,7 @@ export const Reviews = [
     "images": {
       "main": AMERICAN_PSYCHO
     },
-    "content": ""
+    "content": "This book is considered a classic. One that stands the test of time. I disagree. This book sucked. The majority of its pages were chock full of gruesome scenes that left me disgusted. Even if there was purpose behind the grotesque imagery, the author repeatedly redescribed similar scenes. This felt lazy and a way to fill more pages. It reminded me of horror movies that are composed entirely of jumpscares. Nothing substance, just a facade of fear built upon our surface level human instincts to jump at the sudden crash or clamor. Oh and recycling content is a theme, the authors had a lust for describing characters by naming every designer brand. The first time it was done, when we learned the 50+ different lotions Patrick Batemen puts on every morning, it was a unique way to show the reader just how wealthy he was. The 50th time (and this is an estimate not an exaggeration) I was ready to close the book right then and there. The genius may have flown over my head, but I just do not get it."
   },
   {
     "key": "-becoming",
@@ -94,7 +94,7 @@ export const Reviews = [
     "images": {
       "main": BECOMING
     },
-    "content": ""
+    "content": "Preface: I am neither a fan of politics nor biographies. This is not my cup of tea x2. However, I still think that this is a good book. Mrs. Obama’s struggles being a mother and First Lady was an interesting look into the world of politics. Unfortunately, I found myself bored quite frequently. It can be quite difficult for a young guy to relate to a mother and wife of a U.S. President. If you are anything like me, I would skip this book entirely. If you love politics or biographies, then you will definitely enjoy her writing."
   },
   {
     "key": "-born-a-crime",
