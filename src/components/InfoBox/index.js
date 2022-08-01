@@ -6,7 +6,7 @@ const InfoBox = ({ reviewData }) => {
         <div className="info-box">
             Author: {reviewData.author} <br/>
             Genre: {reviewData.genres} <br/>
-            Rating: <StarRating rating={reviewData.rating} />
+            <StarRating rating={reviewData.rating} />
         </div>
     );
 }

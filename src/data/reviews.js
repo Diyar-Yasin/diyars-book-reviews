@@ -29,9 +29,6 @@ import RUNAWAY_HORSES from './../assets/BookCovers/RunawayHorses.jpg';
 import THE_TEMPLE_OF_DAWN from './../assets/BookCovers/TheTempleOfDawn.jpg';
 import THE_DECAY_OF_THE_ANGEL from './../assets/BookCovers/TheDecayOfTheAngel.jpg';
 
-// Extra Images
-import TOKYO_GHOUL_RE_EXTRA from './../assets/ReviewPageExtraImages/TokyoGhoulReExtra.jpg';
-
 export const Reviews = [
   {
     "key": "-tokyo-ghoul",
@@ -40,8 +37,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Dark fantasy, Thriller",
     "images": {
-      "main": TOKYO_GHOUL_RE,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": TOKYO_GHOUL_RE
     },
     "content": "If you haven't already read the original Tokyo Ghoul series this continues the story from there." 
   },
@@ -52,10 +48,9 @@ export const Reviews = [
     "rating": 5,
     "genres": "Horror fiction",
     "images": {
-      "main": COMPLETE_CTHULHU_MYTHOS_TALES,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": COMPLETE_CTHULHU_MYTHOS_TALES
     },
-    "content": ""
+    "content": "Before Lovecraft, horror had two flavors for me: gore and jumpscares.The idea that so many people were horror enthusiasts blew my mind. What’s there to love? Am I going to turn the page and be jolted out of my seat with the big, bold letters “BOO!”?\n\nNonetheless, I gave this collection of short stories a try. The experience moved the macabre from two to three dimensions. I discovered an entirely new flavor of horror.\n\nThe concept of God is, quite honestly, the best connection I can draw up. I know, oxymoronic, but stay with me. The type of cosmic entities lurking behind the pages are oftentimes so great that to name them is taboo, and gazing upon their figure drives one to madness. They are monsters so far beyond human comprehension that most of the horror is left to readers' imagination. In the same ways ways that God is unintelligibly powerful, so too are Cthulhu and Nyarlathotep. Part of the interest is in the verbosity of H.P. Lovecraft. He describes non-Euclidean spaces, otherworldly deities, and grotesque vistas. His use of esoteric vocabulary helps keep readers like me feeling estranged.\n\nWhat’s also great is that the fear doesn’t end when you put the book down. Lovecraft leaves you steeped in wonder as to what might really be out there far longer than most horror I’ve seen.\n\nWhether or not you care for the horror genre, this is a must read. This is a collection of works that has inspired the genre to this day and continues to be talked about. This is a classic."
   },
   {
     "key": "-chainsaw-man",
@@ -64,8 +59,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Horror fiction",
     "images": {
-      "main": CHAINSAW_MAN,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": CHAINSAW_MAN
     },
     "content": ""
   },
@@ -76,8 +70,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Popular science",
     "images": {
-      "main": A_BRIEF_HISTORY_OF_TIME,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": A_BRIEF_HISTORY_OF_TIME
     },
     "content": ""
   },
@@ -88,8 +81,7 @@ export const Reviews = [
     "rating": 1,
     "genres": "Satire, Horror fiction, Postmodern literature, Dark comedy, Psychological Fiction, Transgressive fiction",
     "images": {
-      "main": AMERICAN_PSYCHO,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": AMERICAN_PSYCHO
     },
     "content": ""
   },
@@ -100,8 +92,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Memoir",
     "images": {
-      "main": BECOMING,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": BECOMING
     },
     "content": ""
   },
@@ -112,8 +103,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Autobiography",
     "images": {
-      "main": BORN_A_CRIME,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": BORN_A_CRIME
     },
     "content": ""
   },
@@ -124,8 +114,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Horror",
     "images": {
-      "main": I_AM_LEGEND,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": I_AM_LEGEND
     },
     "content": ""
   },
@@ -136,8 +125,7 @@ export const Reviews = [
     "rating": 5,
     "genres": "Fiction",
     "images": {
-      "main": NO_LONGER_HUMAN,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": NO_LONGER_HUMAN
     },
     "content": ""
   },
@@ -148,8 +136,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Epic poetry",
     "images": {
-      "main": THE_ODYSSEY,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_ODYSSEY
     },
     "content": ""
   },
@@ -160,8 +147,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Thriller, Novel, Mystery, Psychological thriller, Suspense, Psychological Fiction",
     "images": {
-      "main": THE_SILENT_PATIENT,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_SILENT_PATIENT
     },
     "content": ""
   },
@@ -172,8 +158,7 @@ export const Reviews = [
     "rating": 2,
     "genres": "Self-help",
     "images": {
-      "main": THE_SUBTLE_ART_OF_NOT_GIVING_A_FUCK,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_SUBTLE_ART_OF_NOT_GIVING_A_FUCK
     },
     "content": ""
   },
@@ -184,8 +169,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Novel",
     "images": {
-      "main": UNCLE_TOMS_CABIN,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": UNCLE_TOMS_CABIN
     },
     "content": ""
   },
@@ -196,8 +180,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Surreal novel, magical realism",
     "images": {
-      "main": A_WILD_SHEEP_CHASE,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": A_WILD_SHEEP_CHASE
     },
     "content": ""
   },
@@ -208,8 +191,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Historical Fiction, Fantasy Fiction",
     "images": {
-      "main": CIRCE,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": CIRCE
     },
     "content": ""
   },
@@ -220,8 +202,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Science fiction, Metaphysical fiction",
     "images": {
-      "main": EXHALATION,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": EXHALATION
     },
     "content": ""
   },
@@ -232,8 +213,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Biography, Autobiography",
     "images": {
-      "main": IN_ORDER_TO_LIVE,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": IN_ORDER_TO_LIVE
     },
     "content": ""
   },
@@ -244,8 +224,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Science fiction, Dystopian",
     "images": {
-      "main": KLARA_AND_THE_SUN,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": KLARA_AND_THE_SUN
     },
     "content": ""
   },
@@ -256,8 +235,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Historical novel",
     "images": {
-      "main": THE_REMAINS_OF_THE_DAY,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_REMAINS_OF_THE_DAY
     },
     "content": ""
   },
@@ -268,8 +246,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Dark comedy, Satire",
     "images": {
-      "main": LIFE_FOR_SALE,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": LIFE_FOR_SALE
     },
     "content": ""
   },
@@ -280,8 +257,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Biography, Autobiography",
     "images": {
-      "main": ONE_BRIGHT_MOON,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": ONE_BRIGHT_MOON
     },
     "content": ""
   },
@@ -292,8 +268,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Novel, Science fiction, Psychological Fiction, Fantastique",
     "images": {
-      "main": THE_WIND_UP_BIRD_CHRONICLE,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_WIND_UP_BIRD_CHRONICLE
     },
     "content": ""
   },
@@ -304,8 +279,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Novel, Romance novel, Historical Fiction",
     "images": {
-      "main": THE_SONG_OF_ACHILLES,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_SONG_OF_ACHILLES
     },
     "content": ""
   },
@@ -316,8 +290,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Science book",
     "images": {
-      "main": WHY_WE_SLEEP,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": WHY_WE_SLEEP
     },
     "content": ""
   },
@@ -328,8 +301,7 @@ export const Reviews = [
     "rating": 4,
     "genres": "Drama",
     "images": {
-      "main": Q_N_A,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": Q_N_A
     },
     "content": ""
   },
@@ -340,8 +312,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": SPRING_SNOW,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": SPRING_SNOW
     },
     "content": ""
   },
@@ -352,8 +323,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": RUNAWAY_HORSES,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": RUNAWAY_HORSES
     },
     "content": ""
   },
@@ -364,8 +334,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": THE_TEMPLE_OF_DAWN,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_TEMPLE_OF_DAWN
     },
     "content": ""
   },
@@ -376,8 +345,7 @@ export const Reviews = [
     "rating": 3,
     "genres": "Fiction",
     "images": {
-      "main": THE_DECAY_OF_THE_ANGEL,
-      "extra": TOKYO_GHOUL_RE_EXTRA
+      "main": THE_DECAY_OF_THE_ANGEL
     },
     "content": ""
   }
