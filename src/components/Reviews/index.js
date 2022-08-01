@@ -10,7 +10,7 @@ const Reviews = () => {
     return (
         <div className="review">
             <div className="heading">
-                <span class="fa fa-toggle-left back-button" onClick={() => navigate("/")}/>
+                <span class="fa fa-toggle-left back-button" onClick={() => navigate("/bookreviewwebsite-v2")}/>
                 <h1>{reviewData.name}</h1>
             </div>
             <div className="review-content"> 
