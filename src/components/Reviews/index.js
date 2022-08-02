@@ -18,7 +18,6 @@ const Reviews = () => {
                 <img alt="Review" className="review-image" src={reviewData.images.main} />
                 <div></div>
                 <div></div>
-                <div></div>
                 <div className="content-body">
                     {reviewData.content} 
                 </div>
