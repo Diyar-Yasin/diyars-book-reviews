@@ -215,7 +215,7 @@ export const Reviews = [
     "images": {
       "main": IN_ORDER_TO_LIVE
     },
-    "content": ""
+    "content": "Yeonmi recounts her experiences of primordial society within North Korea. Permeating throughout her life is uncertainty. Uncertainty as to where her next meal will come from, if her parents are traitors to the Great Leader, if she can escape North Korea, and eventually rejoin the whole family together in South Korea. The way of life for North Koreans living in famine is deeply interesting. And sad. Although I find it difficult to empathize with her (as I do with most biographies). Not many can, I think. Her experiences are too outlandish for those of us enjoying modern civilization to be able to comprehend. When both her parents were forced to leave her and her sister behind in their hometown, accounts of her spending the days finding flowers and insects to eat was especially harsh. While this was not a page-turner, it is an important read. This is real and happening right now. No amount of explaining her struggles will do this book justice. You just gotta read it."
   },
   {
     "key": "-klara-and-the-sun",
@@ -281,7 +281,7 @@ export const Reviews = [
     "images": {
       "main": THE_SONG_OF_ACHILLES
     },
-    "content": ""
+    "content": "Madeline Miller is a poet. Not literally. She really has a way with words. What I enjoyed the most was the relationship between Achilles and Patroclus. Her interpretation of their relationship wasn’t some ham handed attempt to force homosexuality into Greek methology. It was expertly woven into the story and heightened the emotions felt by the readers. A page turner through and through."
   },
   {
     "key": "-why-we-sleep",
