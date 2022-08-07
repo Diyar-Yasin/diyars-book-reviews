@@ -1,5 +1,5 @@
 @mixin media() {
-    @media (max-width: 686px) {
+    @media (max-width: 940px) {
         @content;
     }
 }
@@ -10,7 +10,7 @@
     font-size: 22px;
 
     @include media {
-        padding-top: 200%;
+        padding: 0 0;
     }
 }
 

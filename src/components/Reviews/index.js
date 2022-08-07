@@ -14,6 +14,7 @@ const Reviews = () => {
                 <h1>{reviewData.name}</h1>
             </div>
             <div className="review-content"> 
+                <div className="mobile-only-div">nice find!</div>
                 <InfoBox reviewData={reviewData}/>
                 <img alt="Review" className="review-image" src={reviewData.images.main} />
                 <div></div>
