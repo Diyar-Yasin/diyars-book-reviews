@@ -127,7 +127,7 @@ export const Reviews = [
     "images": {
       "main": NO_LONGER_HUMAN
     },
-    "content": ""
+    "content": "My first introduction to Japanese novelists as well as one of the best books I have ever read. Oba Yozo, our narrator and protagonist, is an alien in human skin. He lives a constant lie, pretending to understand common social interactions and playing the class clown in an attempt to seem normal. His biggest fear is that others might catch on to his charade. This detached protagonist’s perspective is super interesting. Yozo describes the world around him in the bleakest, blandest way possible. Yet, his descriptions are profoundly interesting. Dazai is a master in both story-telling and writing. He could write a whole chapter on the dullness of a block of concrete."
   },
   {
     "key": "-the-odyssey",
@@ -149,7 +149,7 @@ export const Reviews = [
     "images": {
       "main": THE_SILENT_PATIENT
     },
-    "content": ""
+    "content": "Not every book needs to make a statement. This Silent Patient only scratches that entertainment itch, but it does it very well. A page turner that keeps you on edge near the end with a nice payoff."
   },
   {
     "key": "-the-subtle-art-of-not-giving-a-fuck",
@@ -160,7 +160,7 @@ export const Reviews = [
     "images": {
       "main": THE_SUBTLE_ART_OF_NOT_GIVING_A_FUCK
     },
-    "content": ""
+    "content": "Self-help is a category I find myself indulging in far too much. Whenever I find myself in a slump, even if it's just for a couple hours, I turn to books and videos of this kind. That is to say, I’ve seen a lot of what this genre has to offer. Thus I am confident in saying that this book is sh*t. Mark adores curse words like that. He sounds like a kid who just learned them. Every chapter is stuffed full of filler vulgarity. Like, yeah we get it, you don’t see these words in books often. It loses its charm by the second chapter. At the risk of coming off as egotistical, Mark talks down to his readers. His analogies are simple. Not in a good, “I can easily understand this” way, but in a, “this is dumb” type of way. It’s as if he decided his entire audience would be mindless facebook users with the attention span of goldfishes. Maybe I am being too harsh on the book. There were a few interesting points he mentions that I do think are useful. The only problem is, I don’t want to do anything he says out of spite. I’d go so far as to say this book is disrespectful to its readers."
   },
   {
     "key": "-uncle-tom's-cabin",
