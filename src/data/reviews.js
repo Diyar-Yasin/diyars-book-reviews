@@ -105,7 +105,7 @@ export const Reviews = [
     "images": {
       "main": BORN_A_CRIME
     },
-    "content": ""
+    "content": "Trevor Noah is the only biography I've read that I would even consider reading again. Not only does he have something worthwhile to say, he's also a talented storyteller. That is quite rare in biographies. From what I've seen, any biographies, even if they do have something to say, fail to do so elegantly. These people have lived bold and interesting lives. That does not necessarily include a life of writing. Expecting them to be good at it isn't fair. That does not, however, exempt them from judgment. That being said, Trevor is a sole proprietor in the good biography writing scene, from the small selection of biographies I've read. His life is tragic and emotional, but also vibrant and hopeful. This is a book to read not just for learning of appartheid in South Africa, but also for pleasure. That really is the best praise I can give a biography."
   },
   {
     "key": "-i-am-legend",
