@@ -39,7 +39,7 @@ export const Reviews = [
     "images": {
       "main": TOKYO_GHOUL_RE
     },
-    "content": "If you haven't already read the original Tokyo Ghoul series this continues the story from there. I am still reading this series, but you should take this chance to join me!" 
+    "content": "If you haven't already read the original Tokyo Ghoul series, this continues from there. So go read that first! Some spoilers ahead for those who haven't. Anyways, :re picks up after Ken Kaneki is captured by the CCG. His memories are lost and is trained to become a CCG investigator. Oh how the tables have turned. We follow his life leading a new QS squad of half ghoul investigators. At the same time Kaneki, now known as Haise Sasaki, slowly begins to uncover his past. There are multiple interesting revelations throughout the 16 volumes. What I simultaneously liked and disliked was how the story reminded me of a typical Marvel superhero film. It didn't make any new ground in that regard, but it also didn't make any major mistakes. Which as far as anime and manga are concerned, is pretty good." 
   },
   {
     "key": "-complete-cthulhu-mythos-tales",
