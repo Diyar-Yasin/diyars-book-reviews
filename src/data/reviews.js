@@ -61,7 +61,7 @@ export const Reviews = [
     "images": {
       "main": CHAINSAW_MAN
     },
-    "content": "I am still reading this series, but you should take this chance to join me!"
+    "content": "If you've read any of the other reviews on this site, you'd notice that I rarely bring up specific examples within a book. The majority of reviews are based on a general feel. That is partly because I am not looking to make writing reviews into a job and partly because by the time I get to reviewing a book, it has been so long that I've forgotten it. That being said, I finished this series a week before writing this review. And still, I can't tell you what happened. Not because it's forgettable, mind you. There is simply so much happening. Tatsuki Fujimoto crafts high octane stories that feel like waking up from a weird dream. It's really only after finishing a volume that you understand it. The moment to moment is like riding a supercar into a ninety-degree right turn, after two one-eighties. In the best way possible, I had anxiety throughout this read. Fun and energetic, you enter willfully through one end and spit out on the other."
   },
   {
     "key": "-a-brief-history-of-time",
@@ -116,7 +116,7 @@ export const Reviews = [
     "images": {
       "main": I_AM_LEGEND
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-no-longer-human",
@@ -138,7 +138,7 @@ export const Reviews = [
     "images": {
       "main": THE_ODYSSEY
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-the-silent-patient",
@@ -171,7 +171,7 @@ export const Reviews = [
     "images": {
       "main": UNCLE_TOMS_CABIN
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-a-wild-sheep-chase",
@@ -182,7 +182,7 @@ export const Reviews = [
     "images": {
       "main": A_WILD_SHEEP_CHASE
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-circe",
@@ -193,7 +193,7 @@ export const Reviews = [
     "images": {
       "main": CIRCE
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-exhalation",
@@ -204,7 +204,7 @@ export const Reviews = [
     "images": {
       "main": EXHALATION
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-in-order-to-live",
@@ -226,7 +226,7 @@ export const Reviews = [
     "images": {
       "main": KLARA_AND_THE_SUN
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-the-remains-of-the-day",
@@ -237,7 +237,7 @@ export const Reviews = [
     "images": {
       "main": THE_REMAINS_OF_THE_DAY
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-life-for-sale",
@@ -248,7 +248,7 @@ export const Reviews = [
     "images": {
       "main": LIFE_FOR_SALE
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-one-bright-moon",
@@ -259,7 +259,7 @@ export const Reviews = [
     "images": {
       "main": ONE_BRIGHT_MOON
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-the-wind-up-bird-chronicle",
@@ -270,7 +270,7 @@ export const Reviews = [
     "images": {
       "main": THE_WIND_UP_BIRD_CHRONICLE
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-the-song-of-achilles",
@@ -292,7 +292,7 @@ export const Reviews = [
     "images": {
       "main": WHY_WE_SLEEP
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-q_n_a",
@@ -303,7 +303,7 @@ export const Reviews = [
     "images": {
       "main": Q_N_A
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-spring-snow",
@@ -314,7 +314,7 @@ export const Reviews = [
     "images": {
       "main": SPRING_SNOW
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-runaway-horses",
@@ -325,7 +325,7 @@ export const Reviews = [
     "images": {
       "main": RUNAWAY_HORSES
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-the-temple-of-dawn",
@@ -336,7 +336,7 @@ export const Reviews = [
     "images": {
       "main": THE_TEMPLE_OF_DAWN
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   },
   {
     "key": "-the-decay-of-the-angel",
@@ -347,6 +347,6 @@ export const Reviews = [
     "images": {
       "main": THE_DECAY_OF_THE_ANGEL
     },
-    "content": ""
+    "content": "I'm still writing this review, give me some time :P"
   }
 ];
