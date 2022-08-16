@@ -138,7 +138,7 @@ export const Reviews = [
     "images": {
       "main": THE_ODYSSEY
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": "The Odyssey is one of the best classics I've ever read. Passed down orally for centuries before being written down on paper, this book has stood more than the test of time. I usually find classics to be worth the read, but difficult to get through. It might be the difference in language between then and today. This is both a great read and a valuable one. Reading this before Madeline Miller's The Song of Achilles and Circe made her writing all the better."
   },
   {
     "key": "-the-silent-patient",
