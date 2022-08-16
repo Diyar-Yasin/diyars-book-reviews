@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.60bb48b4.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.c3cc26a5.js",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.260c2f62.js",
     "static/media/CompleteCthulhuMythosTales.jpg": "/bookreviewwebsite-v2/static/media/CompleteCthulhuMythosTales.78d05ef9e889b7c86938.jpg",
     "static/media/ChainsawMan.jpg": "/bookreviewwebsite-v2/static/media/ChainsawMan.5285ceaf84596aa113de.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
@@ -36,10 +36,10 @@
     "static/media/TheDecayOfTheAngel.jpg": "/bookreviewwebsite-v2/static/media/TheDecayOfTheAngel.7ecb36d5ac3426f75fc7.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.60bb48b4.css.map": "/bookreviewwebsite-v2/static/css/main.60bb48b4.css.map",
-    "main.c3cc26a5.js.map": "/bookreviewwebsite-v2/static/js/main.c3cc26a5.js.map"
+    "main.260c2f62.js.map": "/bookreviewwebsite-v2/static/js/main.260c2f62.js.map"
   },
   "entrypoints": [
     "static/css/main.60bb48b4.css",
-    "static/js/main.c3cc26a5.js"
+    "static/js/main.260c2f62.js"
   ]
 }
