@@ -292,7 +292,7 @@ export const Reviews = [
     "images": {
       "main": WHY_WE_SLEEP
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": "Sleep always gets the short end of the stick in the face of everything else. Finishing an assignment, playing games, watching youtube. I readily sacrifice my sleep for my entertainment. Part of me believes that the extra time is just that, extra time. Mathew Walker says otherwise. He fills the pages with interesting knowledge on the reasons we sleep, how it works, and the cost of not getting enough of it. The reality behind sleep deprivation is severe enough to jolt me back into getting a full night's rest. I started being actively interested in getting the right amount of sleep, at the right times of day, consistently. This book is probably important to read at least once a year. I say probably because I have only read it once, and now that it's been a couple of months I can see my poor sleeping habits beginning to resurface. This is no textbook, Mathew's writing is clear but interesting. You won't be reading a textbook here."
   },
   {
     "key": "-q_n_a",
