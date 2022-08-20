@@ -116,7 +116,7 @@ export const Reviews = [
     "images": {
       "main": I_AM_LEGEND
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": "I Am Legend is a very scientific book about vampiric apocalypses. It takes you through as if you were the main character. In the sense that not even he understands what is going on at first. This helped me feel invested in the fate of our protagonist. This was a really fun read and a unique piece in the horror genre. I especially like the ending, which is different (and better) to the movie I Am Legend starring Will Smith."
   },
   {
     "key": "-no-longer-human",
