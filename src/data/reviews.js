@@ -28,7 +28,7 @@ import SPRING_SNOW from './../assets/BookCovers/SpringSnow.jpg';
 import RUNAWAY_HORSES from './../assets/BookCovers/RunawayHorses.jpg';
 import THE_TEMPLE_OF_DAWN from './../assets/BookCovers/TheTempleOfDawn.jpg';
 import THE_DECAY_OF_THE_ANGEL from './../assets/BookCovers/TheDecayOfTheAngel.jpg';
-
+import PYGMALION from './../assets/BookCovers/Pygmalion.jpg';
 export const Reviews = [
   {
     "key": "-tokyo-ghoul",
@@ -346,6 +346,17 @@ export const Reviews = [
     "genres": "Fiction",
     "images": {
       "main": THE_DECAY_OF_THE_ANGEL
+    },
+    "content": "I'm still writing this review, give me some time :P"
+  },
+  {
+    "key": "-pygmalion",
+    "name": "Pygmalion",
+    "author": "George Bernard Shaw",
+    "rating": 4,
+    "genres": "Romantic comedy, social criticism",
+    "images": {
+      "main": PYGMALION
     },
     "content": "I'm still writing this review, give me some time :P"
   }
