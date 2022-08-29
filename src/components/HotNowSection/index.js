@@ -1,6 +1,6 @@
 import './index.scss';
-import HotItem1 from './../../assets/BookCovers/HotRightNow/TokyoGhoulRe.jpg'
-import HotItem2 from './../../assets/BookCovers/HotRightNow/CompleteCthulhuMythosTales.jpg';
+import HotItem1 from './../../assets/BookCovers/HotRightNow/TheSecretLifeOfBees.jpg';
+import HotItem2 from './../../assets/BookCovers/HotRightNow/Pygmalion.jpg';
 import HotItem3 from './../../assets/BookCovers/HotRightNow/ChainsawMan.jpg';
 import { useNavigate } from "react-router-dom";
 import { Reviews } from "./../../data/reviews";
@@ -12,9 +12,9 @@ const HotNowSection = () => {
     var hotReview3 = null;
 
     for (var k in Reviews) {
-        if (Reviews[k].key === "-tokyo-ghoul") {
+        if (Reviews[k].key === "-the-secret-life-of-bees") {
             hotReview1 = Reviews[k];
-        } else if (Reviews[k].key === "-complete-cthulhu-mythos-tales") {
+        } else if (Reviews[k].key === "-pygmalion") {
             hotReview2 = Reviews[k];
         } else if (Reviews[k].key === "-chainsaw-man") {
             hotReview3 = Reviews[k];
