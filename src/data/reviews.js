@@ -358,6 +358,6 @@ export const Reviews = [
     "images": {
       "main": PYGMALION
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": "Pygmalion is one of the easiest classics I've ever read. It still comes stuffed with the wordiness of older books but for some reason, that doesn't make it much harder to hold your attention. Shaw writes about a poor flower girl who gets taught how to speak politely by an upper class Englishman. Basically taking her from rags to riches. There's a lot of interesting socio-economic ideas that are brought up because of this. It's not strictly better to live in high society, for example. It's also supposed to be a romantic comedy, which the humour just flew over my head if I'm being honest. It's a play so it's likely a combination of me reading a 2-dimensional script and how old the book is. George was very economical with what got script time and what didn't. He didn't even go into detail as to how he trains her to speak proper English. I haven't read any other George Bernard Shaw books but I definitely will because of this play."
   }
 ];
