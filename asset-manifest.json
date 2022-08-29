@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.60bb48b4.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.cdbedd6a.js",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.852b06d9.js",
     "static/media/CompleteCthulhuMythosTales.jpg": "/bookreviewwebsite-v2/static/media/CompleteCthulhuMythosTales.78d05ef9e889b7c86938.jpg",
     "static/media/ChainsawMan.jpg": "/bookreviewwebsite-v2/static/media/ChainsawMan.5285ceaf84596aa113de.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
@@ -27,6 +27,7 @@
     "static/media/UncleTom'sCabin.jpg": "/bookreviewwebsite-v2/static/media/UncleTom'sCabin.872235400232a0e161c3.jpg",
     "static/media/TokyoGhoulReCover.jpg": "/bookreviewwebsite-v2/static/media/TokyoGhoulReCover.17710fbb589737c1c206.jpg",
     "static/media/Circe.jpg": "/bookreviewwebsite-v2/static/media/Circe.07df6959a73f0b33b6db.jpg",
+    "static/media/Pygmalion.jpg": "/bookreviewwebsite-v2/static/media/Pygmalion.40b51ae240b3dee38753.jpg",
     "static/media/RunawayHorses.jpg": "/bookreviewwebsite-v2/static/media/RunawayHorses.c5e1a60f4bba3619e59e.jpg",
     "static/media/TheOdyssey.jpg": "/bookreviewwebsite-v2/static/media/TheOdyssey.f75b8bd0f4393def8f2e.jpg",
     "static/media/WhyWeSleep.jpg": "/bookreviewwebsite-v2/static/media/WhyWeSleep.0adc76c0c028e709dc4f.jpg",
@@ -36,10 +37,10 @@
     "static/media/TheDecayOfTheAngel.jpg": "/bookreviewwebsite-v2/static/media/TheDecayOfTheAngel.7ecb36d5ac3426f75fc7.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.60bb48b4.css.map": "/bookreviewwebsite-v2/static/css/main.60bb48b4.css.map",
-    "main.cdbedd6a.js.map": "/bookreviewwebsite-v2/static/js/main.cdbedd6a.js.map"
+    "main.852b06d9.js.map": "/bookreviewwebsite-v2/static/js/main.852b06d9.js.map"
   },
   "entrypoints": [
     "static/css/main.60bb48b4.css",
-    "static/js/main.cdbedd6a.js"
+    "static/js/main.852b06d9.js"
   ]
 }
