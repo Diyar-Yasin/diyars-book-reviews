@@ -1,7 +1,7 @@
 import './index.scss';
 import HotItem1 from './../../assets/BookCovers/HotRightNow/TheSecretLifeOfBees.jpg';
 import HotItem2 from './../../assets/BookCovers/HotRightNow/Pygmalion.jpg';
-import HotItem3 from './../../assets/BookCovers/HotRightNow/ChainsawMan.jpg';
+import HotItem3 from './../../assets/BookCovers/HotRightNow/TheCabinet.jpg';
 import { useNavigate } from "react-router-dom";
 import { Reviews } from "./../../data/reviews";
 
@@ -16,7 +16,7 @@ const HotNowSection = () => {
             hotReview1 = Reviews[k];
         } else if (Reviews[k].key === "-pygmalion") {
             hotReview2 = Reviews[k];
-        } else if (Reviews[k].key === "-chainsaw-man") {
+        } else if (Reviews[k].key === "-the-cabinet") {
             hotReview3 = Reviews[k];
         }
     }

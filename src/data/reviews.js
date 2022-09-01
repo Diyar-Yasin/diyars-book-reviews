@@ -30,8 +30,20 @@ import THE_TEMPLE_OF_DAWN from './../assets/BookCovers/TheTempleOfDawn.jpg';
 import THE_DECAY_OF_THE_ANGEL from './../assets/BookCovers/TheDecayOfTheAngel.jpg';
 import PYGMALION from './../assets/BookCovers/Pygmalion.jpg';
 import THE_SECRET_LIFE_OF_BEES from './../assets/BookCovers/TheSecretLifeOfBees.jpg';
+import THE_CABINET from './../assets/BookCovers/TheCabinet.jpg';
 
 export const Reviews = [
+  {
+    "key": "-the-cabinet",
+    "name": "The Cabinet",
+    "author": "Un-Su Kim",
+    "rating": 0,
+    "genres": "Science fiction, Science fiction comedy",
+    "images": {
+      "main": THE_CABINET
+    },
+    "content": "I'm still reading this, join me if you can! :P"
+  },
   {
     "key": "-pygmalion",
     "name": "Pygmalion",
@@ -47,12 +59,12 @@ export const Reviews = [
     "key": "-the-secret-life-of-bees",
     "name": "The Secret Life of Bees",
     "author": "Sue Monk Kidd",
-    "rating": 0,
+    "rating": 3,
     "genres": "Novel, Bildungsroman, Historical Fiction, Domestic Fiction",
     "images": {
       "main": THE_SECRET_LIFE_OF_BEES
     },
-    "content": "I am still reading this, feel free to join me!"
+    "content": "The Secret Life of Bees has been on my back burner for years. Unfotuntately, the wait was not worth it. The book is good, don't get me wrong. But that's kind of it. The book is both a coming of age story and a recount of racism in the American South back in the 1900s. I've already read about both of these topics. I'd definitely read enough coming of age books so that this just melted in with the rest. As for the depiction of African-American racism in the US, well just read Uncle Tom's Cabin or 12 Years a Slave instead. Those were far more effective in teaching me about the tragedy of slavery in the USA. It's hard for me to say this because if I read this book a couple years prior, it definitely would've been one of my favorites."
   },
   {
     "key": "-tokyo-ghoul",
