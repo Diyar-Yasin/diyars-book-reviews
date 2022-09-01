@@ -1,8 +1,7 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.b0a2770d.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.df998d0e.js",
-    "static/media/ChainsawMan.jpg": "/bookreviewwebsite-v2/static/media/ChainsawMan.5285ceaf84596aa113de.jpg",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.4b0bbb4d.js",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
     "static/media/TheCompleteCthulhuMythosTales.jpg": "/bookreviewwebsite-v2/static/media/TheCompleteCthulhuMythosTales.ba161ff179bbb5d89159.jpg",
@@ -18,6 +17,7 @@
     "static/media/TheSecretLifeOfBees.jpg": "/bookreviewwebsite-v2/static/media/TheSecretLifeOfBees.396e9e878c39bfc6c8e6.jpg",
     "static/media/ChainSawManCover.jpg": "/bookreviewwebsite-v2/static/media/ChainSawManCover.e534113cb54d53385ffe.jpg",
     "static/media/AmericanPsycho.jpg": "/bookreviewwebsite-v2/static/media/AmericanPsycho.50d94d08081f5dad1bcd.jpg",
+    "static/media/TheCabinet.jpg": "/bookreviewwebsite-v2/static/media/TheCabinet.f5424d063a94fe6d6bd5.jpg",
     "static/media/TheSubtleArtOfNotGivingAFuck.jpg": "/bookreviewwebsite-v2/static/media/TheSubtleArtOfNotGivingAFuck.483feabc9b619b73cea8.jpg",
     "static/media/KlaraAndTheSun.png": "/bookreviewwebsite-v2/static/media/KlaraAndTheSun.85a9d8e7e20f988c35dd.png",
     "static/media/TheRemainsOfTheDay.jpg": "/bookreviewwebsite-v2/static/media/TheRemainsOfTheDay.427f4df5a49cee4f50eb.jpg",
@@ -36,10 +36,10 @@
     "static/media/TheDecayOfTheAngel.jpg": "/bookreviewwebsite-v2/static/media/TheDecayOfTheAngel.7ecb36d5ac3426f75fc7.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.b0a2770d.css.map": "/bookreviewwebsite-v2/static/css/main.b0a2770d.css.map",
-    "main.df998d0e.js.map": "/bookreviewwebsite-v2/static/js/main.df998d0e.js.map"
+    "main.4b0bbb4d.js.map": "/bookreviewwebsite-v2/static/js/main.4b0bbb4d.js.map"
   },
   "entrypoints": [
     "static/css/main.b0a2770d.css",
-    "static/js/main.df998d0e.js"
+    "static/js/main.4b0bbb4d.js"
   ]
 }
