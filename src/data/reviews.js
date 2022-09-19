@@ -37,12 +37,12 @@ export const Reviews = [
     "key": "-the-cabinet",
     "name": "The Cabinet",
     "author": "Un-Su Kim",
-    "rating": 0,
+    "rating": 4,
     "genres": "Science fiction, Science fiction comedy",
     "images": {
       "main": THE_CABINET
     },
-    "content": "I'm still reading this, join me if you can! :P"
+    "content": "A random cabinet at a soulless company in Korea contains the files of 'Symptomers'. Time skippers, people with lizards for tongues, trees for fingers. Everything they're hiding in Area 51. So naturally our bored lead spends their time reading through Symptomer case files. The files, as well as the overall plot of the book, criticize Korean work culture. High levels of obedience expected of lower rung employees and meaninglessly overworking. In a society where toxic work culture is normalized, it's no wonder this book received so much praise for calling it out."
   },
   {
     "key": "-pygmalion",
