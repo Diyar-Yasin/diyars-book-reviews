@@ -31,13 +31,73 @@ import THE_DECAY_OF_THE_ANGEL from './../assets/BookCovers/TheDecayOfTheAngel.jp
 import PYGMALION from './../assets/BookCovers/Pygmalion.jpg';
 import THE_SECRET_LIFE_OF_BEES from './../assets/BookCovers/TheSecretLifeOfBees.jpg';
 import THE_CABINET from './../assets/BookCovers/TheCabinet.jpg';
+import THE_HIDDEN_LIFE_OF_TREES from './../assets/BookCovers/TheHiddenLifeOfTrees.jpg';
+import THE_UNCONSOLED from './../assets/BookCovers/TheUnconsoled.jpg';
+import THE_SOUND_OF_WAVES from './../assets/BookCovers/TheSoundOfWaves.jpg';
+import THE_WOMAN_IN_THE_DUNES from './../assets/BookCovers/TheWomanInTheDunes.jpg';
+import COLORLESS_TSUKURU_TAZAKI from './../assets/BookCovers/ColorlessTsukuruTazaki.jpg';
 
 export const Reviews = [
+  {
+    "key": "-colorless-tsukuru-tazaki",
+    "name": "Colorless Tsukuru Tazaki",
+    "author": "Haruki Murakami",
+    "rating": 0,
+    "genres": "Fiction, psychological, Bildungsroman",
+    "images": {
+      "main": COLORLESS_TSUKURU_TAZAKI
+    },
+    "content": "I'm reading this right now! Feel free to join me :D"
+  },
+  {
+    "key": "-the-woman-in-the-dunes",
+    "name": "The Woman in the Dunes",
+    "author": "Kobo Abe",
+    "rating": 3,
+    "genres": "Fiction, psychological",
+    "images": {
+      "main": THE_WOMAN_IN_THE_DUNES
+    },
+    "content": "Suffocating. That's how I would best describe the feeling I got reading through The Woman in the Dunes. It's difficult for me to explain how this book made me feel. None of the words I could use have a positive connotation, but I definitely enjoyed the read. How our lead entomologist deals with imprisonment in an unknown town of sand and their outcomes are worthy of analysis."
+  },
+  {
+    "key": "-the-sound-of-waves",
+    "name": "The Sound of Waves",
+    "author": "Yukio Mishima",
+    "rating": 3,
+    "genres": "Fiction, romance",
+    "images": {
+      "main": THE_SOUND_OF_WAVES
+    },
+    "content": "I'm convinced this book was the precursor that influenced all rom-com anime. It feels very formulaic and overdone in that sense, but that is more likely because I've seen it's Frankenstein reanimation so many times before reading this. Nonetheless, the book is very well written and a fun read. I thought this line was especially creative, \"As a consequence there were now more houses that were empty during the daytime, doors unlocked, windows open, Bees entered these empty houses freely, flew about in their lonesomely, and were often startled upon running headlong into a mirror\"."
+  },
+  {
+    "key": "-the-unconsoled",
+    "name": "The Unconsoled",
+    "author": "Kazuo Ishiguro",
+    "rating": 4,
+    "genres": "Fiction, psychological",
+    "images": {
+      "main": THE_UNCONSOLED
+    },
+    "content": "What a mess. What an amazing mess. The writing here is so well done that you feel dizzy and overwhelmed just like the main character. A famous pianist has a concert in three days and instead of dealing with all his commitments he gets side tracked. Constantly. For some reason, despite being one of the longest books I've read this year, I had a very cozy time reading this. There was something really relaxing about ending my day with The Unconsoled."
+  },
+  {
+    "key": "-the-hidden-life-of-trees",
+    "name": "The Hidden Life of Trees",
+    "author": "Peter Wohlleben",
+    "rating": 2,
+    "genres": "Nature documentary, science, non-fiction",
+    "images": {
+      "main": THE_HIDDEN_LIFE_OF_TREES
+    },
+    "content": "This might be a four or five star book had I been a big enough tree lover. The information about how trees communicate is really interesting. But for how long can one be interested in trees? For me it was about 100 pages before I started to hate my life."
+  },
   {
     "key": "-the-cabinet",
     "name": "The Cabinet",
     "author": "Un-Su Kim",
-    "rating": 4,
+    "rating": 3,
     "genres": "Science fiction, Science fiction comedy",
     "images": {
       "main": THE_CABINET
