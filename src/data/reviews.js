@@ -36,18 +36,78 @@ import THE_UNCONSOLED from './../assets/BookCovers/TheUnconsoled.jpg';
 import THE_SOUND_OF_WAVES from './../assets/BookCovers/TheSoundOfWaves.jpg';
 import THE_WOMAN_IN_THE_DUNES from './../assets/BookCovers/TheWomanInTheDunes.jpg';
 import COLORLESS_TSUKURU_TAZAKI from './../assets/BookCovers/ColorlessTsukuruTazaki.jpg';
+import SWEET_DARK from './../assets/BookCovers/SweetDark.jpg';
+import SAINT_JOAN from './../assets/BookCovers/SaintJoan.jpg';
+import BEFORE_THE_COFFEE_GETS_COLD from './../assets/BookCovers/BeforeTheCoffeeGetsCold.jpg';
+import MAJOR_BARBARA from './../assets/BookCovers/MajorBarbara.jpg';
+import THE_PRAGMATIC_PROGRAMMER from './../assets/BookCovers/ThePragmaticProgrammer.jpg';
 
 export const Reviews = [
+  {
+    "key": "-the-pragmatic-programmer",
+    "name": "The Pragmatic Programmer",
+    "author": "Andy Hunt and Dave Thomas",
+    "rating": 0,
+    "genres": "Reference Work",
+    "images": {
+      "main": THE_PRAGMATIC_PROGRAMMER
+    },
+    "content": "I'm reading this right now! Feel free to join me :D",
+  },
+  {
+    "key": "-major-barbara",
+    "name": "Major Barbara",
+    "author": "George Bernard Shaw",
+    "rating": 4,
+    "genres": "Drama",
+    "images": {
+      "main": MAJOR_BARBARA
+    },
+    "content": "Still writing this review.",
+  },
+    {
+    "key": "-before-the-coffee-gets-cold", 
+    "name": "Before The Coffee Gets Cold",
+    "author": "Toshikazu Kawaguchi",
+    "rating": 2,
+    "genres": "Magical Realism, Fantasy Fiction",
+    "images": {
+      "main": BEFORE_THE_COFFEE_GETS_COLD
+    },
+    "content": "Still writing this review.",
+  },
+  {
+    "key": "-saint-joan", 
+    "name": "Saint Joan",
+    "author": "George Bernard Shaw",
+    "rating": 4,
+    "genres": "Drama, Tragedy, Historical Fiction",
+    "images": {
+      "main": SAINT_JOAN
+    },
+    "content": "Still writing this review.",
+  },
+  {
+    "key": "-sweet-dark",
+    "name": "Sweet Dark",
+    "author": "Savannah Brown",
+    "rating": 3,
+    "genres": "Poetry, Contemporary",
+    "images": {
+      "main": SWEET_DARK
+    },
+    "content": "Still writing this review.",
+  },
   {
     "key": "-colorless-tsukuru-tazaki",
     "name": "Colorless Tsukuru Tazaki",
     "author": "Haruki Murakami",
-    "rating": 0,
+    "rating": 3,
     "genres": "Fiction, psychological, Bildungsroman",
     "images": {
       "main": COLORLESS_TSUKURU_TAZAKI
     },
-    "content": "I'm reading this right now! Feel free to join me :D"
+    "content": "Still writing this review."
   },
   {
     "key": "-the-woman-in-the-dunes",
