@@ -1,7 +1,8 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.b0a2770d.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.662701ee.js",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.0f124360.js",
+    "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e5db6264890074378c92.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
     "static/media/TheCompleteCthulhuMythosTales.jpg": "/bookreviewwebsite-v2/static/media/TheCompleteCthulhuMythosTales.ba161ff179bbb5d89159.jpg",
@@ -22,11 +23,15 @@
     "static/media/ColorlessTsukuruTazaki.jpg": "/bookreviewwebsite-v2/static/media/ColorlessTsukuruTazaki.7a7b179c1401bea7642e.jpg",
     "static/media/TheCabinet.jpg": "/bookreviewwebsite-v2/static/media/TheCabinet.f5424d063a94fe6d6bd5.jpg",
     "static/media/TheSubtleArtOfNotGivingAFuck.jpg": "/bookreviewwebsite-v2/static/media/TheSubtleArtOfNotGivingAFuck.483feabc9b619b73cea8.jpg",
+    "static/media/MajorBarbara.jpg": "/bookreviewwebsite-v2/static/media/MajorBarbara.763567c201b656cb38c8.jpg",
     "static/media/TheUnconsoled.jpg": "/bookreviewwebsite-v2/static/media/TheUnconsoled.ea7e7db8e6935c77ffca.jpg",
+    "static/media/BeforeTheCoffeeGetsCold.jpg": "/bookreviewwebsite-v2/static/media/BeforeTheCoffeeGetsCold.540c93c271ffa16528ba.jpg",
     "static/media/KlaraAndTheSun.png": "/bookreviewwebsite-v2/static/media/KlaraAndTheSun.85a9d8e7e20f988c35dd.png",
     "static/media/TheRemainsOfTheDay.jpg": "/bookreviewwebsite-v2/static/media/TheRemainsOfTheDay.427f4df5a49cee4f50eb.jpg",
+    "static/media/SaintJoan.jpg": "/bookreviewwebsite-v2/static/media/SaintJoan.86a122a80a3e787c4ed8.jpg",
     "static/media/IAmLegend.jpg": "/bookreviewwebsite-v2/static/media/IAmLegend.354044ab0d8528b7f4d9.jpg",
     "static/media/BornACrime.jpg": "/bookreviewwebsite-v2/static/media/BornACrime.6eaa85620ab6edcb7ebc.jpg",
+    "static/media/SweetDark.jpg": "/bookreviewwebsite-v2/static/media/SweetDark.6598ea05432b9d9050ac.jpg",
     "static/media/OneBrightMoon.jpg": "/bookreviewwebsite-v2/static/media/OneBrightMoon.58768eb21e91d4a71b73.jpg",
     "static/media/UncleTom'sCabin.jpg": "/bookreviewwebsite-v2/static/media/UncleTom'sCabin.872235400232a0e161c3.jpg",
     "static/media/TokyoGhoulReCover.jpg": "/bookreviewwebsite-v2/static/media/TokyoGhoulReCover.17710fbb589737c1c206.jpg",
@@ -41,10 +46,10 @@
     "static/media/TheDecayOfTheAngel.jpg": "/bookreviewwebsite-v2/static/media/TheDecayOfTheAngel.7ecb36d5ac3426f75fc7.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.b0a2770d.css.map": "/bookreviewwebsite-v2/static/css/main.b0a2770d.css.map",
-    "main.662701ee.js.map": "/bookreviewwebsite-v2/static/js/main.662701ee.js.map"
+    "main.0f124360.js.map": "/bookreviewwebsite-v2/static/js/main.0f124360.js.map"
   },
   "entrypoints": [
     "static/css/main.b0a2770d.css",
-    "static/js/main.662701ee.js"
+    "static/js/main.0f124360.js"
   ]
 }
