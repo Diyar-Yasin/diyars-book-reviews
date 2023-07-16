@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/bookreviewwebsite-v2/static/css/main.b0a2770d.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.0f124360.js",
-    "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e5db6264890074378c92.jpg",
+    "main.css": "/bookreviewwebsite-v2/static/css/main.94f8803a.css",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.b3cdf047.js",
+    "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
     "static/media/TheCompleteCthulhuMythosTales.jpg": "/bookreviewwebsite-v2/static/media/TheCompleteCthulhuMythosTales.ba161ff179bbb5d89159.jpg",
@@ -37,7 +37,9 @@
     "static/media/TokyoGhoulReCover.jpg": "/bookreviewwebsite-v2/static/media/TokyoGhoulReCover.17710fbb589737c1c206.jpg",
     "static/media/Circe.jpg": "/bookreviewwebsite-v2/static/media/Circe.07df6959a73f0b33b6db.jpg",
     "static/media/Pygmalion.jpg": "/bookreviewwebsite-v2/static/media/Pygmalion.40b51ae240b3dee38753.jpg",
+    "static/media/TheWarofArt.jpg": "/bookreviewwebsite-v2/static/media/TheWarofArt.470de56bd51b8969e7c3.jpg",
     "static/media/RunawayHorses.jpg": "/bookreviewwebsite-v2/static/media/RunawayHorses.c5e1a60f4bba3619e59e.jpg",
+    "static/media/TheLastDayofaCondemnedMan.jpg": "/bookreviewwebsite-v2/static/media/TheLastDayofaCondemnedMan.1a64d266906c017aceea.jpg",
     "static/media/TheOdyssey.jpg": "/bookreviewwebsite-v2/static/media/TheOdyssey.f75b8bd0f4393def8f2e.jpg",
     "static/media/WhyWeSleep.jpg": "/bookreviewwebsite-v2/static/media/WhyWeSleep.0adc76c0c028e709dc4f.jpg",
     "static/media/NoLongerHuman.jpg": "/bookreviewwebsite-v2/static/media/NoLongerHuman.122de69c2f062041bc7f.jpg",
@@ -45,11 +47,11 @@
     "static/media/Q&A.jpg": "/bookreviewwebsite-v2/static/media/Q&A.744f14945b60a3c5a4d5.jpg",
     "static/media/TheDecayOfTheAngel.jpg": "/bookreviewwebsite-v2/static/media/TheDecayOfTheAngel.7ecb36d5ac3426f75fc7.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
-    "main.b0a2770d.css.map": "/bookreviewwebsite-v2/static/css/main.b0a2770d.css.map",
-    "main.0f124360.js.map": "/bookreviewwebsite-v2/static/js/main.0f124360.js.map"
+    "main.94f8803a.css.map": "/bookreviewwebsite-v2/static/css/main.94f8803a.css.map",
+    "main.b3cdf047.js.map": "/bookreviewwebsite-v2/static/js/main.b3cdf047.js.map"
   },
   "entrypoints": [
-    "static/css/main.b0a2770d.css",
-    "static/js/main.0f124360.js"
+    "static/css/main.94f8803a.css",
+    "static/js/main.b3cdf047.js"
   ]
 }
