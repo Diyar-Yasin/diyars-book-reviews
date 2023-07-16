@@ -54,7 +54,7 @@ export const Reviews = [
     "images": {
       "main": THE_LAST_DAY_OF_A_CONDEMNED_MAN
     },
-    "content": ""
+    "content": "A fun read that was meant to humanize death row inmates and act as a plea against the death penalty. A good time."
   },
   {
     "key": "-the-war-of-art",
