@@ -41,8 +41,32 @@ import SAINT_JOAN from './../assets/BookCovers/SaintJoan.jpg';
 import BEFORE_THE_COFFEE_GETS_COLD from './../assets/BookCovers/BeforeTheCoffeeGetsCold.jpg';
 import MAJOR_BARBARA from './../assets/BookCovers/MajorBarbara.jpg';
 import THE_PRAGMATIC_PROGRAMMER from './../assets/BookCovers/ThePragmaticProgrammer.jpg';
+import THE_WAR_OF_ART from './../assets/BookCovers/TheWarofArt.jpg';
+import THE_LAST_DAY_OF_A_CONDEMNED_MAN from './../assets/BookCovers/TheLastDayofaCondemnedMan.jpg';
 
 export const Reviews = [
+  {
+    "key": "-the-last-day-of-a-condemned-man",
+    "name": "The Last Day of a Condemned Man",
+    "author": "Victor Hugo",
+    "rating": 3,
+    "genres": "Fiction",
+    "images": {
+      "main": THE_LAST_DAY_OF_A_CONDEMNED_MAN
+    },
+    "content": ""
+  },
+  {
+    "key": "-the-war-of-art",
+    "name": "The War of Art",
+    "author": "Steven Pressfield",
+    "rating": 3,
+    "genres": "Self help",
+    "images": {
+      "main": THE_WAR_OF_ART
+    },
+    "content": "Steven is a heretic when it comes to his work. He separates the book into 3 acts on the dangers of resistance, the power of treating oneself as a professional, and his beliefs on the origins of inspiration. The first 2 acts are more polished versions of the general concensus from other self help books. Not to diminish his work. For anyone who has read few self help books, you will learn something new. At the very least this book ignited my fire to get some work done. The final act is where I have the most problems. I read. And then I skimmed. And then I skipped over most of the 3rd act. He spends the entire time talking about how heavenly angels like the muses from Greek mythology are responsible for the strokes of genius of all humans. He even recites the opening musing to Homer's The Oddysey before starting his work. This, I found completely useless and was not something I cared about. Inspiration is a miraculous thing, but his attempts at rationalizing it were unncessary. Its a short read, but for the self help genre, its one of the best. Although, that does not say much."
+  },
   {
     "key": "-the-pragmatic-programmer",
     "name": "The Pragmatic Programmer",

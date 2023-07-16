@@ -2,7 +2,7 @@
     font-family: 'Inconsolata', monospace;
     margin-left: 10%;
     margin-bottom: 2%;
-    
+
 
     .hot-now-title {
         margin-left: 2%;
@@ -11,48 +11,31 @@
         color: black;
     }
 
-    p {
+    .hot-now-subtitle {
         padding-bottom: 1%;
         font-size: 18px;
         color: #A44A3F;
     }
 
+    p {
+        padding-bottom: 1%;
+        font-size: 18px;
+        color: black;
+    }
+
     .hot-now-items-container {
-        display: flex;
-        justify-content: space-evenly;
-        margin-left: -10%;
+        
+        margin-left: -5%;
 
         .hot-now-item {
-            display: inline;
             position: relative;
-            background-color: black;
-            width: 30%;
-            padding-top: 30%;
-            height: 0;
-            box-shadow: 0 6px 12px 12px rgba(0, 0, 0, 0.1);
+            width: fit-content;
+            margin-bottom: 1px;
+            box-shadow: 0 1px 1px 1px rgba(0, 0, 0, 0.1);
             transform: scale(1);
             transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
             cursor: pointer;
             overflow: hidden;
-
-            .hot-now-item-content {
-                position: absolute;
-                top: 2%;
-                left: 2%;
-
-                img {
-                    object-fit: cover;
-                    height: 98%;
-                    width: 98%;
-                }
-
-                Link {
-                    object-fit: cover;
-                    height: 98%;
-                    width: 98%;
-                }
-
-            }
         }
 
         .hot-now-item:hover {
