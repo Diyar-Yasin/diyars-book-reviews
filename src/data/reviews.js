@@ -67,7 +67,7 @@ export const Reviews = [
     "images": {
       "main": THE_CASE_OF_CHARLES_DEXTER_WARD
     },
-    "content": "I'm too much of a Lovecraft fanboy to not recommond this title. A gripping read about witchcraft, but relative to some of Lovecraft's best work, it isn't as good. Still, Lovecrafts wide vocabulary and masterful tension building made this a book I finished in a few days."
+    "content": "I'm too much of a Lovecraft fanboy to not recommond this title. A gripping read about witchcraft, but relative to some of Lovecraft's best work, it isn't as good. Still, Lovecrafts wide vocabulary and masterful tension building made this a book I finished in a few days. Here is a particularly well crafter excerpt from the book: “Muffled musketry sounded again, followed by a deep scream less piercing but even more horrible than those which had preceded it; a kind of throaty, nastily plastic cough or gurgle whose quality as a scream must have come more from its continuity and psychological import than from its actual acoustic value.”"
   },
   {
     "key": "-the-last-day-of-a-condemned-man",
