@@ -71,10 +71,6 @@ $primary-color: rgb(0, 0, 0);
         }
         
         .bookshelf-container {
-            display: flex;
-            overflow-y: auto;
-            padding-top: 2%;
-
             .bookshelf {
                 display: grid;
                 grid-template-columns: repeat(6, 1fr);

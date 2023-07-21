@@ -43,8 +43,32 @@ import MAJOR_BARBARA from './../assets/BookCovers/MajorBarbara.jpg';
 import THE_PRAGMATIC_PROGRAMMER from './../assets/BookCovers/ThePragmaticProgrammer.jpg';
 import THE_WAR_OF_ART from './../assets/BookCovers/TheWarofArt.jpg';
 import THE_LAST_DAY_OF_A_CONDEMNED_MAN from './../assets/BookCovers/TheLastDayofaCondemnedMan.jpg';
+import THE_CASE_OF_CHARLES_DEXTER_WARD from './../assets/BookCovers/TheCaseofCharlesDexterWard.jpg';
+import LOLITA from './../assets/BookCovers/Lolita.jpg';
 
 export const Reviews = [
+  {
+    "key": "-lolita",
+    "name": "Lolita",
+    "author": "Vladimir Nabokov",
+    "rating": 0,
+    "genres": "Fiction, Erotic Literature, Tragicomedy",
+    "images": {
+      "main": LOLITA
+    },
+    "content": "I'm reading this right now."
+  },
+  {
+    "key": "-the-case-of-charles-dexter-ward",
+    "name": "The Case of Charles Dexter Ward",
+    "author": "H.P. Lovecraft",
+    "rating": 4,
+    "genres": "Horror, Fiction",
+    "images": {
+      "main": THE_CASE_OF_CHARLES_DEXTER_WARD
+    },
+    "content": "I'm too much of a Lovecraft fanboy to not recommond this title. A gripping read about witchcraft, but relative to some of Lovecraft's best work, it isn't as good. Still, Lovecrafts wide vocabulary and masterful tension building made this a book I finished in a few days."
+  },
   {
     "key": "-the-last-day-of-a-condemned-man",
     "name": "The Last Day of a Condemned Man",
