@@ -44,6 +44,8 @@ import THE_PRAGMATIC_PROGRAMMER from './../assets/BookCovers/ThePragmaticProgram
 import THE_WAR_OF_ART from './../assets/BookCovers/TheWarofArt.jpg';
 import THE_LAST_DAY_OF_A_CONDEMNED_MAN from './../assets/BookCovers/TheLastDayofaCondemnedMan.jpg';
 import THE_CASE_OF_CHARLES_DEXTER_WARD from './../assets/BookCovers/TheCaseofCharlesDexterWard.jpg';
+import FIRST_PERSON_SINGULAR from './../assets/BookCovers/FirstPersonSingular.jpg';
+import THE_RED_PONY from './../assets/BookCovers/TheRedPony.jpg';
 import LOLITA from './../assets/BookCovers/Lolita.jpg';
 
 export const Reviews = [
@@ -57,6 +59,28 @@ export const Reviews = [
       "main": LOLITA
     },
     "content": "I'm reading this right now."
+  },
+  {
+    "key": "-the-red-pony",
+    "name": "The Red Pony",
+    "author": "John Steinbeck",
+    "rating": 3,
+    "genres": "Fiction, Short Story, Slice of Life",
+    "images": {
+      "main": THE_RED_PONY
+    },
+    "content": "The Red Pony reads like a book for kids. It's written in that comfortable, American South-style that I'm all too fond of. What I enjoyed about it was how little fluff was put into describing anything non-integral to the story. The book is to the point and allows itself to be finished in a single sitting. Steinbeck finds a way to distill the essence of his messages into a concise binding without stripping away the enjoyment of the book. As a result, the climactic moments hit. They didn't leave me spread across my lawn chair like melted popsicles, no I was able to keep my cool, but this was good readin'."
+  },
+  {
+    "key": "-first-person-singular",
+    "name": "First Person Singular",
+    "author": "Haruki Murakami",
+    "rating": 3,
+    "genres": "Short Story Collection, Fiction",
+    "images": {
+      "main": FIRST_PERSON_SINGULAR
+    },
+    "content": "Previous books like The Wind Up Bird Chronicle are huge 400 page books of surrealism and unanswered questions. First Person Singular is a collection of short stories. Always having a hard time understanding the purpose of Murakami's works, this was much more digestible. I especially enjoyed the somewhat humorous Confessions of a Shinagawa Monkey, where Murakami is approached by a monkey while he soaks in a hotel's hot spring who can speak; later sharing beer with him in his room. Up until the latter half of the book I was under the assumption that, like all his previous work, these were all fictional stories. The Yakult Swallows Poetry Collection was not. That took me for a bit of a spin too."
   },
   {
     "key": "-the-case-of-charles-dexter-ward",
@@ -95,12 +119,12 @@ export const Reviews = [
     "key": "-the-pragmatic-programmer",
     "name": "The Pragmatic Programmer",
     "author": "Andy Hunt and Dave Thomas",
-    "rating": 0,
+    "rating": 4,
     "genres": "Reference Work",
     "images": {
       "main": THE_PRAGMATIC_PROGRAMMER
     },
-    "content": "I'm reading this right now! Feel free to join me :D",
+    "content": "At the time of reading this, I had finished the 1st half of my 3rd year of a computer science degree. Even so, not everything in this book was applicable/understandable to me. This is a book of many golden nuggets of information that people in the field can always benefit going back to. In a few years I'll make sure to reread this and see what new things I may learn from it. Or what old things I had forgotten. Forewarning, this is pure non-fiction, technical writing. However, if you're a programmer, it's definitely worth giving it a read.",
   },
   {
     "key": "-major-barbara",
@@ -122,7 +146,7 @@ export const Reviews = [
     "images": {
       "main": BEFORE_THE_COFFEE_GETS_COLD
     },
-    "content": "Still writing this review.",
+    "content": "I read this book a while back, so forgive me for any omitted details. The overarching story is about a coffee shop where you can go back in time to a previous date where you were in that same coffee shop. You can only do this once, among some other rules that help push along the story. The rest of the book is tall tales concerning individuals who use this supernatural feature of the store. In a very Japanese author-like way, there is a lot of supernatural surrealism used to convey meaning. Unlike other authors I have read, however, this felt cliche and got boring after a few stories. Kawaguchi has 2 more books with covers that look very similar to this (with a slight color change). I picked up the first one of those books and found that, yes, yet again it's the same overarching story but with a new set of characters using this magic coffee house. I didn't even try to read them. This could have been better had it been shorter, it overstayed its welcome for sure.",
   },
   {
     "key": "-saint-joan", 
