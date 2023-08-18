@@ -67,7 +67,7 @@ const Home = () => {
                         :
 
                         Reviews.map((item, i) => (    
-                            <div className="book" onClick={() => navigate("/bookreviewwebsite-v2/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
+                            <div className={item.content.length > 0 ? "book" : "book unreviewed-book"} onClick={() => navigate("/bookreviewwebsite-v2/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
                                 <img className="book-cover" src={item.images.main} alt={item.name}/>
                             </div>
                         ))

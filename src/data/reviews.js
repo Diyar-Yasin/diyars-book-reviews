@@ -25,9 +25,6 @@ import THE_SONG_OF_ACHILLES from './../assets/BookCovers/TheSongOfAchilles.jpg';
 import WHY_WE_SLEEP from './../assets/BookCovers/WhyWeSleep.jpg';
 import Q_N_A from './../assets/BookCovers/Q&A.jpg';
 import SPRING_SNOW from './../assets/BookCovers/SpringSnow.jpg';
-import RUNAWAY_HORSES from './../assets/BookCovers/RunawayHorses.jpg';
-import THE_TEMPLE_OF_DAWN from './../assets/BookCovers/TheTempleOfDawn.jpg';
-import THE_DECAY_OF_THE_ANGEL from './../assets/BookCovers/TheDecayOfTheAngel.jpg';
 import PYGMALION from './../assets/BookCovers/Pygmalion.jpg';
 import THE_SECRET_LIFE_OF_BEES from './../assets/BookCovers/TheSecretLifeOfBees.jpg';
 import THE_CABINET from './../assets/BookCovers/TheCabinet.jpg';
@@ -59,7 +56,7 @@ export const Reviews = [
     "images": {
       "main": GODS_LITTLE_ACRE
     },
-    "content": "Set in Georgia, USA during the times of slavery, Ty Ty Walden is the widowed father of four kids. Each of them with their own vices of greed, lust, pride, and such. They struggle to eat as his large plot of land is not used to grow cotton. No sir, all he does is dig for gold. He's got the 'gold fever'. He's had it for fifteen years. This story is a depiction of the hardships of that time. Quite unique relative to the rest of books I've read in this place and time, this book doesn't focus so much on the injustice of skin color, as it does the realities of living."
+    "content": "Set in Georgia, USA during the times of slavery, Ty Ty Walden is the widowed father of four kids. Each of them with their own vices of greed, lust, pride, and such. They struggle to eat as his large plot of land is not used to grow cotton. No sir, all he does is dig for gold. He's got the 'gold fever'. He's had it for fifteen years. This story is a depiction of the hardships of that time and what it means to have faith. Quite unique relative to the rest of books I've read in this place and time, this book doesn't focus so much on the injustice of skin color, as it does the realities of living."
   },
   {
     "key": "-lolita",
@@ -70,7 +67,7 @@ export const Reviews = [
     "images": {
       "main": LOLITA
     },
-    "content": "I'm reading this right now."
+    "content": ""
   },
   {
     "key": "-the-red-pony",
@@ -169,7 +166,7 @@ export const Reviews = [
     "images": {
       "main": SAINT_JOAN
     },
-    "content": "Still writing this review.",
+    "content": "",
   },
   {
     "key": "-sweet-dark",
@@ -191,7 +188,7 @@ export const Reviews = [
     "images": {
       "main": COLORLESS_TSUKURU_TAZAKI
     },
-    "content": "Still writing this review."
+    "content": ""
   },
   {
     "key": "-the-woman-in-the-dunes",
@@ -411,7 +408,7 @@ export const Reviews = [
     "images": {
       "main": UNCLE_TOMS_CABIN
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-a-wild-sheep-chase",
@@ -422,7 +419,7 @@ export const Reviews = [
     "images": {
       "main": A_WILD_SHEEP_CHASE
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-circe",
@@ -433,7 +430,7 @@ export const Reviews = [
     "images": {
       "main": CIRCE
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-exhalation",
@@ -444,7 +441,7 @@ export const Reviews = [
     "images": {
       "main": EXHALATION
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-in-order-to-live",
@@ -466,7 +463,7 @@ export const Reviews = [
     "images": {
       "main": KLARA_AND_THE_SUN
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-the-remains-of-the-day",
@@ -477,7 +474,7 @@ export const Reviews = [
     "images": {
       "main": THE_REMAINS_OF_THE_DAY
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-life-for-sale",
@@ -488,7 +485,7 @@ export const Reviews = [
     "images": {
       "main": LIFE_FOR_SALE
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-one-bright-moon",
@@ -499,7 +496,7 @@ export const Reviews = [
     "images": {
       "main": ONE_BRIGHT_MOON
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-the-wind-up-bird-chronicle",
@@ -510,7 +507,7 @@ export const Reviews = [
     "images": {
       "main": THE_WIND_UP_BIRD_CHRONICLE
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
     "key": "-the-song-of-achilles",
@@ -543,50 +540,17 @@ export const Reviews = [
     "images": {
       "main": Q_N_A
     },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   },
   {
-    "key": "-spring-snow",
-    "name": "Spring Snow",
+    "key": "-sea-of-fertility-tetralogy",
+    "name": "The Sea of Fertility Tetralogy",
     "author": "Yukio Mishima",
     "rating": 3,
     "genres": "Fiction",
     "images": {
       "main": SPRING_SNOW
     },
-    "content": "I'm still writing this review, give me some time :P"
-  },
-  {
-    "key": "-runaway-horses",
-    "name": "Runaway Horses",
-    "author": "Yukio Mishima",
-    "rating": 3,
-    "genres": "Fiction",
-    "images": {
-      "main": RUNAWAY_HORSES
-    },
-    "content": "I'm still writing this review, give me some time :P"
-  },
-  {
-    "key": "-the-temple-of-dawn",
-    "name": "The Temple of Dawn",
-    "author": "Yukio Mishima",
-    "rating": 3,
-    "genres": "Fiction",
-    "images": {
-      "main": THE_TEMPLE_OF_DAWN
-    },
-    "content": "I'm still writing this review, give me some time :P"
-  },
-  {
-    "key": "-the-decay-of-the-angel",
-    "name": "The Decay of the Angel",
-    "author": "Yukio Mishima",
-    "rating": 3,
-    "genres": "Fiction",
-    "images": {
-      "main": THE_DECAY_OF_THE_ANGEL
-    },
-    "content": "I'm still writing this review, give me some time :P"
+    "content": ""
   }
 ];

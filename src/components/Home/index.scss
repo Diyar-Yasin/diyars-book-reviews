@@ -85,6 +85,10 @@ $primary-color: rgb(0, 0, 0);
                     padding-top: 10%;
                     grid-row-gap: 5%;
                 }
+
+                .unreviewed-book {
+                    opacity: 0.4;
+                }
         
                 .book {
                     position: relative;
@@ -112,6 +116,7 @@ $primary-color: rgb(0, 0, 0);
                         will-change: transform;
                         transform: skewX(0.01deg);
                         transition: transform 0.35s ease-in-out;
+
                     }
 
                     .book-cover:after {
