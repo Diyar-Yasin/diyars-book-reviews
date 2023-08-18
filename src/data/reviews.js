@@ -47,8 +47,20 @@ import THE_CASE_OF_CHARLES_DEXTER_WARD from './../assets/BookCovers/TheCaseofCha
 import FIRST_PERSON_SINGULAR from './../assets/BookCovers/FirstPersonSingular.jpg';
 import THE_RED_PONY from './../assets/BookCovers/TheRedPony.jpg';
 import LOLITA from './../assets/BookCovers/Lolita.jpg';
+import GODS_LITTLE_ACRE from './../assets/BookCovers/GodsLittleAcre.jpg';
 
 export const Reviews = [
+  {
+    "key": "-gods-little-acre",
+    "name": "God's Little Acre",
+    "author": "Erskine Caldwell",
+    "rating": 3,
+    "genres": "Fiction",
+    "images": {
+      "main": GODS_LITTLE_ACRE
+    },
+    "content": "Set in Georgia, USA during the times of slavery, Ty Ty Walden is the widowed father of four kids. Each of them with their own vices of greed, lust, pride, and such. They struggle to eat as his large plot of land is not used to grow cotton. No sir, all he does is dig for gold. He's got the 'gold fever'. He's had it for fifteen years. This story is a depiction of the hardships of that time. Quite unique relative to the rest of books I've read in this place and time, this book doesn't focus so much on the injustice of skin color, as it does the realities of living."
+  },
   {
     "key": "-lolita",
     "name": "Lolita",
@@ -130,12 +142,12 @@ export const Reviews = [
     "key": "-major-barbara",
     "name": "Major Barbara",
     "author": "George Bernard Shaw",
-    "rating": 4,
+    "rating": 0,
     "genres": "Drama",
     "images": {
       "main": MAJOR_BARBARA
     },
-    "content": "Still writing this review.",
+    "content": "Sometimes I read a book and it feels like things went right over my head. The book wasn't particularly difficult to read. Maybe I was inattentive, or I need to give it a second read before I understand it. I had to read a summary and analysis online afterwards. Based on that there was a lot to this book. Regardless, I don't feel comfortable giving this a proper rating.",
   },
     {
     "key": "-before-the-coffee-gets-cold", 
@@ -168,7 +180,7 @@ export const Reviews = [
     "images": {
       "main": SWEET_DARK
     },
-    "content": "Still writing this review.",
+    "content": "I found this book by stumbling on Savannah Brown's Youtube channel. She is a video essayist type about topics surrounding English and literature generally. I've been trying to expand what I read. So I was hoping to read my first poetry book I would actually enjoy. Previously, Milk and Honey by Rupi Kaur was such a disappointment, I stopped reading the genre altogether. I found two things: I enjoy how Brown writes and that I need to read this book again if I want to get any clue about what she is talking about.",
   },
   {
     "key": "-colorless-tsukuru-tazaki",
