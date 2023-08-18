@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.2ab88cf6.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.085085ec.js",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.312d5d54.js",
     "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -39,6 +39,7 @@
     "static/media/Pygmalion.jpg": "/bookreviewwebsite-v2/static/media/Pygmalion.40b51ae240b3dee38753.jpg",
     "static/media/TheWarofArt.jpg": "/bookreviewwebsite-v2/static/media/TheWarofArt.470de56bd51b8969e7c3.jpg",
     "static/media/RunawayHorses.jpg": "/bookreviewwebsite-v2/static/media/RunawayHorses.c5e1a60f4bba3619e59e.jpg",
+    "static/media/GodsLittleAcre.jpg": "/bookreviewwebsite-v2/static/media/GodsLittleAcre.99de4986e319fe82dd96.jpg",
     "static/media/TheLastDayofaCondemnedMan.jpg": "/bookreviewwebsite-v2/static/media/TheLastDayofaCondemnedMan.1a64d266906c017aceea.jpg",
     "static/media/TheOdyssey.jpg": "/bookreviewwebsite-v2/static/media/TheOdyssey.f75b8bd0f4393def8f2e.jpg",
     "static/media/TheRedPony.jpg": "/bookreviewwebsite-v2/static/media/TheRedPony.37ed450cd42f9446af39.jpg",
@@ -51,10 +52,10 @@
     "static/media/FirstPersonSingular.jpg": "/bookreviewwebsite-v2/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.2ab88cf6.css.map": "/bookreviewwebsite-v2/static/css/main.2ab88cf6.css.map",
-    "main.085085ec.js.map": "/bookreviewwebsite-v2/static/js/main.085085ec.js.map"
+    "main.312d5d54.js.map": "/bookreviewwebsite-v2/static/js/main.312d5d54.js.map"
   },
   "entrypoints": [
     "static/css/main.2ab88cf6.css",
-    "static/js/main.085085ec.js"
+    "static/js/main.312d5d54.js"
   ]
 }
