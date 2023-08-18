@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bookreviewwebsite-v2/static/css/main.2ab88cf6.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.312d5d54.js",
+    "main.css": "/bookreviewwebsite-v2/static/css/main.1c64807f.css",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.c8ce81da.js",
     "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -15,7 +15,6 @@
     "static/media/TheSilentPatient.jpg": "/bookreviewwebsite-v2/static/media/TheSilentPatient.2507ddf467e211fbe635.jpg",
     "static/media/TheWindUpBirdChronicle.jpg": "/bookreviewwebsite-v2/static/media/TheWindUpBirdChronicle.dc667619680e73eafdc1.jpg",
     "static/media/Becoming.jpg": "/bookreviewwebsite-v2/static/media/Becoming.baecc0de101c2b3d02b9.jpg",
-    "static/media/TheTempleOfDawn.jpg": "/bookreviewwebsite-v2/static/media/TheTempleOfDawn.fa22bc5412ca38be2d9d.jpg",
     "static/media/TheSecretLifeOfBees.jpg": "/bookreviewwebsite-v2/static/media/TheSecretLifeOfBees.396e9e878c39bfc6c8e6.jpg",
     "static/media/ChainSawManCover.jpg": "/bookreviewwebsite-v2/static/media/ChainSawManCover.e534113cb54d53385ffe.jpg",
     "static/media/TheHiddenLifeOfTrees.jpg": "/bookreviewwebsite-v2/static/media/TheHiddenLifeOfTrees.729e8090511b9fc9c07f.jpg",
@@ -38,7 +37,6 @@
     "static/media/Circe.jpg": "/bookreviewwebsite-v2/static/media/Circe.07df6959a73f0b33b6db.jpg",
     "static/media/Pygmalion.jpg": "/bookreviewwebsite-v2/static/media/Pygmalion.40b51ae240b3dee38753.jpg",
     "static/media/TheWarofArt.jpg": "/bookreviewwebsite-v2/static/media/TheWarofArt.470de56bd51b8969e7c3.jpg",
-    "static/media/RunawayHorses.jpg": "/bookreviewwebsite-v2/static/media/RunawayHorses.c5e1a60f4bba3619e59e.jpg",
     "static/media/GodsLittleAcre.jpg": "/bookreviewwebsite-v2/static/media/GodsLittleAcre.99de4986e319fe82dd96.jpg",
     "static/media/TheLastDayofaCondemnedMan.jpg": "/bookreviewwebsite-v2/static/media/TheLastDayofaCondemnedMan.1a64d266906c017aceea.jpg",
     "static/media/TheOdyssey.jpg": "/bookreviewwebsite-v2/static/media/TheOdyssey.f75b8bd0f4393def8f2e.jpg",
@@ -47,15 +45,14 @@
     "static/media/NoLongerHuman.jpg": "/bookreviewwebsite-v2/static/media/NoLongerHuman.122de69c2f062041bc7f.jpg",
     "static/media/Exhalation.jpg": "/bookreviewwebsite-v2/static/media/Exhalation.c54b360a68fb0efca708.jpg",
     "static/media/Q&A.jpg": "/bookreviewwebsite-v2/static/media/Q&A.744f14945b60a3c5a4d5.jpg",
-    "static/media/TheDecayOfTheAngel.jpg": "/bookreviewwebsite-v2/static/media/TheDecayOfTheAngel.7ecb36d5ac3426f75fc7.jpg",
     "static/media/TheCaseofCharlesDexterWard.jpg": "/bookreviewwebsite-v2/static/media/TheCaseofCharlesDexterWard.b765d278cd2a061e12f0.jpg",
     "static/media/FirstPersonSingular.jpg": "/bookreviewwebsite-v2/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
-    "main.2ab88cf6.css.map": "/bookreviewwebsite-v2/static/css/main.2ab88cf6.css.map",
-    "main.312d5d54.js.map": "/bookreviewwebsite-v2/static/js/main.312d5d54.js.map"
+    "main.1c64807f.css.map": "/bookreviewwebsite-v2/static/css/main.1c64807f.css.map",
+    "main.c8ce81da.js.map": "/bookreviewwebsite-v2/static/js/main.c8ce81da.js.map"
   },
   "entrypoints": [
-    "static/css/main.2ab88cf6.css",
-    "static/js/main.312d5d54.js"
+    "static/css/main.1c64807f.css",
+    "static/js/main.c8ce81da.js"
   ]
 }
