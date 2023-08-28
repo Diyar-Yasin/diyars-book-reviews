@@ -45,8 +45,20 @@ import FIRST_PERSON_SINGULAR from './../assets/BookCovers/FirstPersonSingular.jp
 import THE_RED_PONY from './../assets/BookCovers/TheRedPony.jpg';
 import LOLITA from './../assets/BookCovers/Lolita.jpg';
 import GODS_LITTLE_ACRE from './../assets/BookCovers/GodsLittleAcre.jpg';
+import THE_FLOWERS_OF_BUFFOONERY from './../assets/BookCovers/TheFlowersOfBuffonery.jpg';
 
 export const Reviews = [
+  {
+    "key": "-the-flowers-of-buffoonery",
+    "name": "The Flowers of Buffoonery",
+    "author": "Osamu Dazai",
+    "rating": 3,
+    "genres": "Fiction, Novella",
+    "images": {
+      "main": THE_FLOWERS_OF_BUFFOONERY
+    },
+    "content": "This is the interlude to Dazai's famous work, No Longer Human. In fact the basis of the book centers around a major event of the sequel. Yozo Oba is kept in a sanitarium following a failed suicide attempt. His friends come and play cards and laugh. An all too aware narrator describes the sensitivity of which these characters ballet between their real emotion. This book really feels like a transcript as the narrator breaks the 4th wall repeatedly to bash himself for his bad writing. As a 100 pager, it wasn't bad and might have added some more depth to No Longer Human had I read this prior."
+  },
   {
     "key": "-gods-little-acre",
     "name": "God's Little Acre",
@@ -56,7 +68,7 @@ export const Reviews = [
     "images": {
       "main": GODS_LITTLE_ACRE
     },
-    "content": "Set in Georgia, USA during the times of slavery, Ty Ty Walden is the widowed father of four kids. Each of them with their own vices of greed, lust, pride, and such. They struggle to eat as his large plot of land is not used to grow cotton. No sir, all he does is dig for gold. He's got the 'gold fever'. He's had it for fifteen years. This story is a depiction of the hardships of that time and what it means to have faith. Quite unique relative to the rest of books I've read in this place and time, this book doesn't focus so much on the injustice of skin color, as it does the realities of living."
+    "content": "Set in Georgia, USA during the times of slavery, Ty Ty Walden is the widowed father of four kids. Each of them with their own vices of greed, lust, pride, and such. They struggle to eat as his large plot of land is not used to grow cotton. No sir, all he does is dig for gold. He's got the 'gold fever'. He's had it for fifteen years. This story is a depiction of the hardships of that time and what it means to have faith.* Quite unique relative to the rest of books I've read in this place and time, this book doesn't focus so much on the injustice of skin color, as it does the realities of living.\n* Actually, here is an amendment after writing this review, I believe Caldwell talks about the futility of faith. God's Little Acre is a plot on Ty Ty's land where any profit made is donated to the church. Everytime they decide to dig on God's Little Acre for gold, Ty Ty moves it. He moves it anytime at will. Never does this acre benefit him other than convincing himself (Ty Ty) that he remembers God. This land consistently has no effect on the story, neither the wins nor losses."
   },
   {
     "key": "-lolita",
@@ -430,7 +442,7 @@ export const Reviews = [
     "images": {
       "main": CIRCE
     },
-    "content": ""
+    "content": "Miller is an incredible writer. Whether or not you have a good grasp on Greek mythology this book is a great read. Having read The Odyssey by Homer beforehand added a wonderful perspective, as Odysseus' journey collides with Circe's. I am not a fantasy fan, even still, her work made me all the more interested in Greek mythology."
   },
   {
     "key": "-exhalation",
