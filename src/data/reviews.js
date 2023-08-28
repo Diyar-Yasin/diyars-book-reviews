@@ -442,7 +442,7 @@ export const Reviews = [
     "images": {
       "main": CIRCE
     },
-    "content": "Miller is an incredible writer. Whether or not you have a good grasp on Greek mythology this book is a great read. Having read The Odyssey by Homer beforehand added a wonderful perspective, as Odysseus' journey collides with Circe's. I am not a fantasy fan, even still, her work made me all the more interested in Greek mythology."
+    "content": "Miller is an incredible writer. Whether or not you have a good grasp on Greek mythology, this book is a great read. Having read The Odyssey by Homer beforehand added a wonderful perspective, as Odysseus' journey collides with Circe's. I am not a fantasy fan, even still, her work made me all the more interested in Greek mythology."
   },
   {
     "key": "-exhalation",
