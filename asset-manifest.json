@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.1c64807f.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.0a5e147a.js",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.209df31b.js",
     "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -20,6 +20,7 @@
     "static/media/TheHiddenLifeOfTrees.jpg": "/bookreviewwebsite-v2/static/media/TheHiddenLifeOfTrees.729e8090511b9fc9c07f.jpg",
     "static/media/AmericanPsycho.jpg": "/bookreviewwebsite-v2/static/media/AmericanPsycho.50d94d08081f5dad1bcd.jpg",
     "static/media/ColorlessTsukuruTazaki.jpg": "/bookreviewwebsite-v2/static/media/ColorlessTsukuruTazaki.7a7b179c1401bea7642e.jpg",
+    "static/media/OneHundredYearsOfSolitude.jpg": "/bookreviewwebsite-v2/static/media/OneHundredYearsOfSolitude.ce5c48b1ea3bdac81ce1.jpg",
     "static/media/TheCabinet.jpg": "/bookreviewwebsite-v2/static/media/TheCabinet.f5424d063a94fe6d6bd5.jpg",
     "static/media/TheSubtleArtOfNotGivingAFuck.jpg": "/bookreviewwebsite-v2/static/media/TheSubtleArtOfNotGivingAFuck.483feabc9b619b73cea8.jpg",
     "static/media/MajorBarbara.jpg": "/bookreviewwebsite-v2/static/media/MajorBarbara.763567c201b656cb38c8.jpg",
@@ -50,10 +51,10 @@
     "static/media/FirstPersonSingular.jpg": "/bookreviewwebsite-v2/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.1c64807f.css.map": "/bookreviewwebsite-v2/static/css/main.1c64807f.css.map",
-    "main.0a5e147a.js.map": "/bookreviewwebsite-v2/static/js/main.0a5e147a.js.map"
+    "main.209df31b.js.map": "/bookreviewwebsite-v2/static/js/main.209df31b.js.map"
   },
   "entrypoints": [
     "static/css/main.1c64807f.css",
-    "static/js/main.0a5e147a.js"
+    "static/js/main.209df31b.js"
   ]
 }
