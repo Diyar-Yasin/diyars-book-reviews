@@ -46,8 +46,20 @@ import THE_RED_PONY from './../assets/BookCovers/TheRedPony.jpg';
 import LOLITA from './../assets/BookCovers/Lolita.jpg';
 import GODS_LITTLE_ACRE from './../assets/BookCovers/GodsLittleAcre.jpg';
 import THE_FLOWERS_OF_BUFFOONERY from './../assets/BookCovers/TheFlowersOfBuffonery.jpg';
+import ONE_HUNDRED_YEARS_OF_SOLITUDE from './../assets/BookCovers/OneHundredYearsOfSolitude.jpg';
 
 export const Reviews = [
+  {
+    "key": "-one-hundred-years-of-solitude",
+    "name": "One Hundred Years of Solitude",
+    "author": "Gabriel García Márquez",
+    "rating": 4,
+    "genres": "Family saga, Magical Realism",
+    "images": {
+      "main": ONE_HUNDRED_YEARS_OF_SOLITUDE
+    },
+    "content": "100 Years of Solitude is Gabriel García Márquez's masterpiece. Winning the Nobel Prize in Literature in 1982, this is the book he is known for. A minute examination of the biblical lives of a family, stretching multiple generations over the course of the novel, the house of the Buendia's perpetually rises and falls over each passing tide. You watch as they establish the town of Macondo, as the gypsies discover it, as it's occupied by the army, as the train finally reaches town, as it gets rebuilt after years of endless rain. The time passed in the story is far lengthier than its own pages. I really only have one complaint. The book reminded me of Russian literature in that each character had the same name. At one point there were 18 Aureliano's who WEREN'T main characters. There was even a family tree prefacing the copy I own to help me keep track of who is who. Still easier than The Brothers Karamazov by Fyodor Dostoevsky."
+  },
   {
     "key": "-the-flowers-of-buffoonery",
     "name": "The Flowers of Buffoonery",
@@ -189,7 +201,7 @@ export const Reviews = [
     "images": {
       "main": SWEET_DARK
     },
-    "content": "I found this book by stumbling on Savannah Brown's Youtube channel. She is a video essayist type about topics surrounding English and literature generally. I've been trying to expand what I read. So I was hoping to read my first poetry book I would actually enjoy. Previously, Milk and Honey by Rupi Kaur was such a disappointment, I stopped reading the genre altogether. I found two things: I enjoy how Brown writes and that I need to read this book again if I want to get any clue about what she is talking about.",
+    "content": "I found this book by stumbling on Savannah Brown's Youtube channel. She is a video essayist type about topics surrounding English and literature generally. I've been trying to expand what I read. So I was hoping to read my first poetry book I would actually enjoy. Previously, Milk and Honey by Rupi Kaur was such a disappointment, I stopped reading the genre altogether. I found two things: I enjoy how Brown writes and that I need to read this book again if I want to get any clue about what she is talking about. I'll leave this tweet by the author here as its fitting: u can read/listen to a poem and not intimately understand a fckn WORD of what was said and still be like 'u know what...i liked how that sounded/looked/made me feel....cool' and u will still have experienced the poem correctly",
   },
   {
     "key": "-colorless-tsukuru-tazaki",
