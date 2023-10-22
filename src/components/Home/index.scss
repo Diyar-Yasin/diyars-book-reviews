@@ -98,7 +98,7 @@ $primary-color: rgb(0, 0, 0);
                     padding-bottom: 150%;
                     perspective: 1000px;
                     cursor: pointer;
-                    
+
                     .book-cover {
                         position: absolute;
                         z-index: 1;
@@ -153,6 +153,16 @@ $primary-color: rgb(0, 0, 0);
                     transition: transform 0.35s ease-in-out,opacity 0.5s ease-in-out;
                 }
             }
+        }
+
+        .bookshelf-footer {
+            position: fixed;
+            left: 0;
+            bottom: 0;
+            width: 100%;
+            height: 10px;
+            z-index: 1;
+            background-color: white;
         }
     }
 }

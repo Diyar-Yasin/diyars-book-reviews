@@ -43,12 +43,23 @@ import THE_LAST_DAY_OF_A_CONDEMNED_MAN from './../assets/BookCovers/TheLastDayof
 import THE_CASE_OF_CHARLES_DEXTER_WARD from './../assets/BookCovers/TheCaseofCharlesDexterWard.jpg';
 import FIRST_PERSON_SINGULAR from './../assets/BookCovers/FirstPersonSingular.jpg';
 import THE_RED_PONY from './../assets/BookCovers/TheRedPony.jpg';
-import LOLITA from './../assets/BookCovers/Lolita.jpg';
 import GODS_LITTLE_ACRE from './../assets/BookCovers/GodsLittleAcre.jpg';
 import THE_FLOWERS_OF_BUFFOONERY from './../assets/BookCovers/TheFlowersOfBuffonery.jpg';
 import ONE_HUNDRED_YEARS_OF_SOLITUDE from './../assets/BookCovers/OneHundredYearsOfSolitude.jpg';
+import JUST_ANOTHER_ONE_NIGHT_STANZA from './../assets/BookCovers/JustAnotherOneNightStanza.jpg';
 
 export const Reviews = [
+  {
+    "key": "-just-another-one-night-stanza",
+    "name": "Just Another One Night Stanza",
+    "author": "Scott Wicken",
+    "rating": 3,
+    "genres": "Spoken word poems",
+    "images": {
+      "main": JUST_ANOTHER_ONE_NIGHT_STANZA
+    },
+    "content": "I got this recommended to me at a local bookstore in Waterloo, Ontario. That's Scott's hometown! It also veers from what I traditionally consider poetry, which is the artsy kind. It’s stark and austere. Maybe it’s because the collection was originally meant to be spoken as opposed to read? I really enjoyed this divergence to what I previously didn't recognize as poetry. There was a section where he describes waiting at the Windsor bus and (begrudgingly) he forces you into that desolate scene with him. \”where do the souls of children go?\” was the most memorable piece to me. Maybe because of how flowery he got with it. I’ll leave you with it’s ending line: \“I was convinced that the strawberry juice staining red my tiny pink fingers was the blood of those below, and that the tiny berries I consumed contained the reincarnations of their little lost souls.”"
+  },
   {
     "key": "-one-hundred-years-of-solitude",
     "name": "One Hundred Years of Solitude",
@@ -81,17 +92,6 @@ export const Reviews = [
       "main": GODS_LITTLE_ACRE
     },
     "content": "Set in Georgia, USA during the times of slavery, Ty Ty Walden is the widowed father of four kids. Each of them with their own vices of greed, lust, pride, and such. They struggle to eat as his large plot of land is not used to grow cotton. No sir, all he does is dig for gold. He's got the 'gold fever'. He's had it for fifteen years. This story is a depiction of the hardships of that time and what it means to have faith.* Quite unique relative to the rest of books I've read in this place and time, this book doesn't focus so much on the injustice of skin color, as it does the realities of living.\n* Actually, here is an amendment after writing this review, I believe Caldwell talks about the futility of faith. God's Little Acre is a plot on Ty Ty's land where any profit made is donated to the church. Everytime they decide to dig on God's Little Acre for gold, Ty Ty moves it. He moves it anytime at will. Never does this acre benefit him other than convincing himself (Ty Ty) that he remembers God. This land consistently has no effect on the story, neither the wins nor losses."
-  },
-  {
-    "key": "-lolita",
-    "name": "Lolita",
-    "author": "Vladimir Nabokov",
-    "rating": 0,
-    "genres": "Fiction, Erotic Literature, Tragicomedy",
-    "images": {
-      "main": LOLITA
-    },
-    "content": ""
   },
   {
     "key": "-the-red-pony",
@@ -185,7 +185,7 @@ export const Reviews = [
     "key": "-saint-joan", 
     "name": "Saint Joan",
     "author": "George Bernard Shaw",
-    "rating": 4,
+    "rating": -1,
     "genres": "Drama, Tragedy, Historical Fiction",
     "images": {
       "main": SAINT_JOAN
@@ -207,7 +207,7 @@ export const Reviews = [
     "key": "-colorless-tsukuru-tazaki",
     "name": "Colorless Tsukuru Tazaki",
     "author": "Haruki Murakami",
-    "rating": 3,
+    "rating": -1,
     "genres": "Fiction, psychological, Bildungsroman",
     "images": {
       "main": COLORLESS_TSUKURU_TAZAKI
@@ -427,7 +427,7 @@ export const Reviews = [
     "key": "-uncle-tom's-cabin",
     "name": "Uncle Tom's Cabin",
     "author": "Harriet Beecher Stowe",
-    "rating": 4,
+    "rating": -1,
     "genres": "Novel",
     "images": {
       "main": UNCLE_TOMS_CABIN
@@ -438,7 +438,7 @@ export const Reviews = [
     "key": "-a-wild-sheep-chase",
     "name": "A Wild Sheep Chase",
     "author": "Haruki Murakami",
-    "rating": 3,
+    "rating": -1,
     "genres": "Surreal novel, magical realism",
     "images": {
       "main": A_WILD_SHEEP_CHASE
@@ -460,7 +460,7 @@ export const Reviews = [
     "key": "-exhalation",
     "name": "Exhalation",
     "author": "Ted Chiang",
-    "rating": 4,
+    "rating": -1,
     "genres": "Science fiction, Metaphysical fiction",
     "images": {
       "main": EXHALATION
@@ -482,7 +482,7 @@ export const Reviews = [
     "key": "-klara-and-the-sun",
     "name": "Klara and the Sun",
     "author": "Kazuo Ishiguro",
-    "rating": 3,
+    "rating": -1,
     "genres": "Science fiction, Dystopian",
     "images": {
       "main": KLARA_AND_THE_SUN
@@ -493,7 +493,7 @@ export const Reviews = [
     "key": "-the-remains-of-the-day",
     "name": "The Remains of the Day",
     "author": "Kazuo Ishiguro",
-    "rating": 3,
+    "rating": -1,
     "genres": "Historical novel",
     "images": {
       "main": THE_REMAINS_OF_THE_DAY
@@ -504,7 +504,7 @@ export const Reviews = [
     "key": "-life-for-sale",
     "name": "Life for Sale",
     "author": "Yukio Mishima",
-    "rating": 3,
+    "rating": -1,
     "genres": "Dark comedy, Satire",
     "images": {
       "main": LIFE_FOR_SALE
@@ -515,7 +515,7 @@ export const Reviews = [
     "key": "-one-bright-moon",
     "name": "One Bright Moon",
     "author": "Andrew Kwong",
-    "rating": 3,
+    "rating": -1,
     "genres": "Biography, Autobiography",
     "images": {
       "main": ONE_BRIGHT_MOON
@@ -526,7 +526,7 @@ export const Reviews = [
     "key": "-the-wind-up-bird-chronicle",
     "name": "The Wind-Up Bird Chronicle",
     "author": "Haruki Murakami",
-    "rating": 3,
+    "rating": -1,
     "genres": "Novel, Science fiction, Psychological Fiction, Fantastique",
     "images": {
       "main": THE_WIND_UP_BIRD_CHRONICLE
@@ -559,7 +559,7 @@ export const Reviews = [
     "key": "-q_n_a",
     "name": "Q&A",
     "author": "Vikas Swarup",
-    "rating": 4,
+    "rating": -1,
     "genres": "Drama",
     "images": {
       "main": Q_N_A
@@ -570,7 +570,7 @@ export const Reviews = [
     "key": "-sea-of-fertility-tetralogy",
     "name": "The Sea of Fertility Tetralogy",
     "author": "Yukio Mishima",
-    "rating": 3,
+    "rating": -1,
     "genres": "Fiction",
     "images": {
       "main": SPRING_SNOW

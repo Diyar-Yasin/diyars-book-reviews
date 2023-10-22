@@ -10,11 +10,11 @@ const StarRating = ({ rating }) => {
 
     return (
         <div className="rating">
-            {stars.map((star, i) => {
+            { rating >= 0 ? stars.map((star, i) => {
                 return (
                     star === 1 ? <span class="fa fa-star checked" /> : <span class="fa fa-star" />
                   )
-            })}
+            }) : "No rating yet"} 
         </div>
     );
 }

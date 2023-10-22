@@ -74,6 +74,7 @@ const Home = () => {
                     }
                 </div>
             </div>
+            <div className="bookshelf-footer"></div>
             
         </div>
     );
