@@ -47,8 +47,20 @@ import GODS_LITTLE_ACRE from './../assets/BookCovers/GodsLittleAcre.jpg';
 import THE_FLOWERS_OF_BUFFOONERY from './../assets/BookCovers/TheFlowersOfBuffonery.jpg';
 import ONE_HUNDRED_YEARS_OF_SOLITUDE from './../assets/BookCovers/OneHundredYearsOfSolitude.jpg';
 import JUST_ANOTHER_ONE_NIGHT_STANZA from './../assets/BookCovers/JustAnotherOneNightStanza.jpg';
+import LOVE_IN_THE_TIME_OF_CHOLERA from './../assets/BookCovers/LoveInTheTimeOfCholera.jpg';
 
 export const Reviews = [
+  {
+    "key": "-love-in-the-time-of-cholera",
+    "name": "Love in the Time of Cholera",
+    "author": "Gabriel García Márquez",
+    "rating": 3,
+    "genres": "Romance, Fiction",
+    "images": {
+      "main": LOVE_IN_THE_TIME_OF_CHOLERA
+    },
+    "content": "A long and arduous love story spanning a lifetime. Marquez takes his time pulling us through the life of Florentino Ariza, who professes his love to Fermina Daza and is rejected. His pursuit continues for over 50 years, even after she marries and grows old. In all honesty, the story was touching but overly verbose. I might enjoy this in another decade, and I'm sure there is something new to take in after each decade of one's own life."
+  },
   {
     "key": "-just-another-one-night-stanza",
     "name": "Just Another One Night Stanza",
