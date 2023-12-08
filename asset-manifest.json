@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.05b72f16.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.ad626890.js",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.b7be4fe2.js",
     "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -32,6 +32,8 @@
     "static/media/IAmLegend.jpg": "/bookreviewwebsite-v2/static/media/IAmLegend.354044ab0d8528b7f4d9.jpg",
     "static/media/BornACrime.jpg": "/bookreviewwebsite-v2/static/media/BornACrime.6eaa85620ab6edcb7ebc.jpg",
     "static/media/SweetDark.jpg": "/bookreviewwebsite-v2/static/media/SweetDark.6598ea05432b9d9050ac.jpg",
+    "static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.jpg": "/bookreviewwebsite-v2/static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.c55da4880264968a5f90.jpg",
+    "static/media/LoveInTheTimeOfCholera.jpg": "/bookreviewwebsite-v2/static/media/LoveInTheTimeOfCholera.f7a0ea0a1e3bc5132280.jpg",
     "static/media/OneBrightMoon.jpg": "/bookreviewwebsite-v2/static/media/OneBrightMoon.58768eb21e91d4a71b73.jpg",
     "static/media/UncleTom'sCabin.jpg": "/bookreviewwebsite-v2/static/media/UncleTom'sCabin.872235400232a0e161c3.jpg",
     "static/media/TokyoGhoulReCover.jpg": "/bookreviewwebsite-v2/static/media/TokyoGhoulReCover.17710fbb589737c1c206.jpg",
@@ -52,10 +54,10 @@
     "static/media/FirstPersonSingular.jpg": "/bookreviewwebsite-v2/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.05b72f16.css.map": "/bookreviewwebsite-v2/static/css/main.05b72f16.css.map",
-    "main.ad626890.js.map": "/bookreviewwebsite-v2/static/js/main.ad626890.js.map"
+    "main.b7be4fe2.js.map": "/bookreviewwebsite-v2/static/js/main.b7be4fe2.js.map"
   },
   "entrypoints": [
     "static/css/main.05b72f16.css",
-    "static/js/main.ad626890.js"
+    "static/js/main.b7be4fe2.js"
   ]
 }
