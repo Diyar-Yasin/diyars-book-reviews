@@ -48,8 +48,20 @@ import THE_FLOWERS_OF_BUFFOONERY from './../assets/BookCovers/TheFlowersOfBuffon
 import ONE_HUNDRED_YEARS_OF_SOLITUDE from './../assets/BookCovers/OneHundredYearsOfSolitude.jpg';
 import JUST_ANOTHER_ONE_NIGHT_STANZA from './../assets/BookCovers/JustAnotherOneNightStanza.jpg';
 import LOVE_IN_THE_TIME_OF_CHOLERA from './../assets/BookCovers/LoveInTheTimeOfCholera.jpg';
+import THERE_ARE_PLACES_IN_THE_WORLD_WHERE_RULES_ARE_LESS_IMPORTANT_THAN_KINDNESS from './../assets/BookCovers/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.jpg';
 
 export const Reviews = [
+  {
+    "key": "-there-are-places-in-the-world-where-rules-are-less-important-than-kindness",
+    "name": "There Are Places in the World Where Rules Are Less Important Than Kindness",
+    "author": "Carlo Rovelli",
+    "rating": 2,
+    "genres": "Science, Nonfiction, Philosophy",
+    "images": {
+      "main": THERE_ARE_PLACES_IN_THE_WORLD_WHERE_RULES_ARE_LESS_IMPORTANT_THAN_KINDNESS
+    },
+    "content": "While there were some interesting topics Carlo touches on, this book really is just an amalgamation of short essays that range in quality from ramblings to well thought out dialogue. There were much more well written works than ramblings mind you. Nonetheless, everything felt disjoint and would be better placed on my web browser than on physical paper. There is a heavy amount of philosophy and how it connects to physics and science as a whole. Somehow, however, with all the detail this book delves into, I found myself walking away with little value."
+  },
   {
     "key": "-love-in-the-time-of-cholera",
     "name": "Love in the Time of Cholera",
