@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/bookreviewwebsite-v2/static/css/main.05b72f16.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.b7be4fe2.js",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.fcc1600e.js",
     "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -24,6 +24,7 @@
     "static/media/TheCabinet.jpg": "/bookreviewwebsite-v2/static/media/TheCabinet.f5424d063a94fe6d6bd5.jpg",
     "static/media/TheSubtleArtOfNotGivingAFuck.jpg": "/bookreviewwebsite-v2/static/media/TheSubtleArtOfNotGivingAFuck.483feabc9b619b73cea8.jpg",
     "static/media/MajorBarbara.jpg": "/bookreviewwebsite-v2/static/media/MajorBarbara.763567c201b656cb38c8.jpg",
+    "static/media/SoGoodTheyCantIgnoreYou.jpg": "/bookreviewwebsite-v2/static/media/SoGoodTheyCantIgnoreYou.7ebcfdd8350675ff3c8a.jpg",
     "static/media/TheUnconsoled.jpg": "/bookreviewwebsite-v2/static/media/TheUnconsoled.ea7e7db8e6935c77ffca.jpg",
     "static/media/BeforeTheCoffeeGetsCold.jpg": "/bookreviewwebsite-v2/static/media/BeforeTheCoffeeGetsCold.540c93c271ffa16528ba.jpg",
     "static/media/KlaraAndTheSun.png": "/bookreviewwebsite-v2/static/media/KlaraAndTheSun.85a9d8e7e20f988c35dd.png",
@@ -33,6 +34,7 @@
     "static/media/BornACrime.jpg": "/bookreviewwebsite-v2/static/media/BornACrime.6eaa85620ab6edcb7ebc.jpg",
     "static/media/SweetDark.jpg": "/bookreviewwebsite-v2/static/media/SweetDark.6598ea05432b9d9050ac.jpg",
     "static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.jpg": "/bookreviewwebsite-v2/static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.c55da4880264968a5f90.jpg",
+    "static/media/OctoberFilmHaunt.webp": "/bookreviewwebsite-v2/static/media/OctoberFilmHaunt.40000e4fc8bb6b7f6deb.webp",
     "static/media/LoveInTheTimeOfCholera.jpg": "/bookreviewwebsite-v2/static/media/LoveInTheTimeOfCholera.f7a0ea0a1e3bc5132280.jpg",
     "static/media/OneBrightMoon.jpg": "/bookreviewwebsite-v2/static/media/OneBrightMoon.58768eb21e91d4a71b73.jpg",
     "static/media/UncleTom'sCabin.jpg": "/bookreviewwebsite-v2/static/media/UncleTom'sCabin.872235400232a0e161c3.jpg",
@@ -54,10 +56,10 @@
     "static/media/FirstPersonSingular.jpg": "/bookreviewwebsite-v2/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
     "main.05b72f16.css.map": "/bookreviewwebsite-v2/static/css/main.05b72f16.css.map",
-    "main.b7be4fe2.js.map": "/bookreviewwebsite-v2/static/js/main.b7be4fe2.js.map"
+    "main.fcc1600e.js.map": "/bookreviewwebsite-v2/static/js/main.fcc1600e.js.map"
   },
   "entrypoints": [
     "static/css/main.05b72f16.css",
-    "static/js/main.b7be4fe2.js"
+    "static/js/main.fcc1600e.js"
   ]
 }
