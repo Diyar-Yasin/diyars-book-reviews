@@ -62,7 +62,7 @@ export const Reviews = [
     "images": {
       "main": SO_GOOD_THEY_CANT_IGNORE_YOU
     },
-    "content": "Newport, using an overly anecdotal argument, proposes developing skills in the field you work in will lead to a fulfilling career, as opposed to finding your passion first and then pursuing it professionally. Newport supposes the higher echelons of career competence offer flexibility and agency in day-to-day work, which is what makes it enjoyable. While I don't think his arguments are bulletproof, I really like the thesis for the selfish reason that it provides more comfort to me than the alternative. As I delved into the field of computer science, I found having a depth of knowledge to be extremely rewarding and it gave new light to the field as a whole. Getting more expertise in my field made CS more compelling. Computer science is not my only interest, I love mountain biking. Do I have to make a career out of it? Absolutely not."
+    "content": "Newport, using overly anecdotal arguments, proposes developing skills in the field you work in will lead to a fulfilling career, as opposed to finding your passion first and then pursuing it professionally. Newport supposes the higher echelons of career competence offer flexibility and agency in day-to-day work, which is what makes it enjoyable. While I don't think his arguments are bulletproof, I really like the thesis for the selfish reason that it provides more comfort to me than the alternative. As I delved into the field of computer science, I found having a depth of knowledge to be extremely rewarding and it gave new light to the field as a whole. Getting more expertise in my field made CS more compelling. Computer science is not my only interest, I love mountain biking. Should I make a career out of it? People who say, \"follow your passion\" might tell me to. Newport says, \"probably not.\""
   },
   {
     "key": "-october-film-haunt",
@@ -73,7 +73,7 @@ export const Reviews = [
     "images": {
       "main": OCTOBER_FILM_HAUNT
     },
-    "content": "This is only one short story out of the collection in the collection Greener Pastures, picked out for no reason other than that a friend had recommended it to me. Following the nonlinear storyline was a rewarding crawl through Wehunt's imposing domain. Without spoiling it, the book is a Blair Witch Project tale that loops into itself. It's short enough so that I would rather leave the rest for you to discover."
+    "content": "This is only one short story out of the collection Greener Pastures, picked out for no reason other than that a friend had recommended it to me. Following the nonlinear storyline was a rewarding crawl through Wehunt's imposing domain. Without spoiling it, the book is a Blair Witch Project tale that loops into itself. It's short enough so that I would rather leave the rest for you to discover."
   },
   {
     "key": "-there-are-places-in-the-world-where-rules-are-less-important-than-kindness",
