@@ -51,8 +51,20 @@ import LOVE_IN_THE_TIME_OF_CHOLERA from './../assets/BookCovers/LoveInTheTimeOfC
 import THERE_ARE_PLACES_IN_THE_WORLD_WHERE_RULES_ARE_LESS_IMPORTANT_THAN_KINDNESS from './../assets/BookCovers/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.jpg';
 import OCTOBER_FILM_HAUNT from './../assets/BookCovers/OctoberFilmHaunt.webp';
 import SO_GOOD_THEY_CANT_IGNORE_YOU from './../assets/BookCovers/SoGoodTheyCantIgnoreYou.jpg';
+import CITIES_OF_SALT from './../assets/BookCovers/CitiesOfSalt.jpg';
 
 export const Reviews = [
+  {
+    "key": "-cities-of-salt",
+    "name": "Cities of Salt",
+    "author": "Abdul Rahman Munif",
+    "rating": 3,
+    "genres": "Historical, Political Fiction",
+    "images": {
+      "main": CITIES_OF_SALT
+    },
+    "content": "A major work of Arabic fiction, Munif details the lives of Arabs in Wadi Al-Uyoun as it was before, during, and after the Americans arrived to dig the land up for oil. While this perspective is familiar to anyone from the Middle East, this is a great read for anyone to see how the lives of natives were both improved and destroyed. At times, the Arabs looked like cavemen when they first caught ear of the radio brought from the outside world. Other times, the Americans were insufferable as they struggled to adapt to the climate of the Middle East and as the courteous culture of the Wadi's inhabitants was taken for granted."
+  },
   {
     "key": "-so-good-they-cant-ignore-you",
     "name": "So Good They Can't Ignore You",
@@ -475,12 +487,12 @@ export const Reviews = [
     "key": "-uncle-tom's-cabin",
     "name": "Uncle Tom's Cabin",
     "author": "Harriet Beecher Stowe",
-    "rating": -1,
+    "rating": 4,
     "genres": "Novel",
     "images": {
       "main": UNCLE_TOMS_CABIN
     },
-    "content": ""
+    "content": "I did not think it was possible, but this book was the closest I have ever gotten to crying during a book. The realities described are all too powerful and the humanity of the oppressed was made especially clear. A famous illustration of life in the American South during slavery which lives up to its stardom as a classic. "
   },
   {
     "key": "-a-wild-sheep-chase",
@@ -530,12 +542,12 @@ export const Reviews = [
     "key": "-klara-and-the-sun",
     "name": "Klara and the Sun",
     "author": "Kazuo Ishiguro",
-    "rating": -1,
+    "rating": 3,
     "genres": "Science fiction, Dystopian",
     "images": {
       "main": KLARA_AND_THE_SUN
     },
-    "content": ""
+    "content": "A sci-fi fiction which raises interesting questions as to whether we can ( or should ) use robots in place of humans. If there is something uniquely characteristic about life that cannot be manufactured. With interstices of introspection, this book doesn't force its themes but presents them carefully to its readers."
   },
   {
     "key": "-the-remains-of-the-day",
