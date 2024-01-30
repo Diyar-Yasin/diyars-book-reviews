@@ -6,8 +6,8 @@ import Reviews from './components/Reviews';
 function App() {
   return (
     <Routes>
-        <Route path="/bookreviewwebsite-v2" element={<Home />} />
-        <Route path="/bookreviewwebsite-v2/:reviews" element={<Reviews />}/> 
+        <Route path="/diyars-book-reviews" element={<Home />} />
+        <Route path="/diyars-book-reviews/:reviews" element={<Reviews />}/> 
     </Routes>
   );
 }

@@ -17,13 +17,13 @@ const HotNowSection = () => {
             <div className="hot-now-title">Hot Right Now</div>
             <div className="hot-now-subtitle">Here's what Diyar's up to recently</div>
             <div className="hot-now-items-container">
-                <div className="hot-now-item" onClick={() =>  navigate("/bookreviewwebsite-v2/reviews" + hotReview1.key, { state: { id: 1, reviewData: hotReview1 }})}>
+                <div className="hot-now-item" onClick={() =>  navigate("/diyars-book-reviews/reviews" + hotReview1.key, { state: { id: 1, reviewData: hotReview1 }})}>
                     <p>{hotReview1.name}</p>
                 </div>
-                <div className="hot-now-item" onClick={() => navigate("/bookreviewwebsite-v2/reviews" + hotReview2.key, { state: { id: 1, reviewData: hotReview2 }})}>
+                <div className="hot-now-item" onClick={() => navigate("/diyars-book-reviews/reviews" + hotReview2.key, { state: { id: 1, reviewData: hotReview2 }})}>
                     <p>{hotReview2.name}</p>
                 </div>
-                <div className="hot-now-item" onClick={() => navigate("/bookreviewwebsite-v2/reviews" + hotReview3.key, { state: { id: 1, reviewData: hotReview3 }})}>
+                <div className="hot-now-item" onClick={() => navigate("/diyars-book-reviews/reviews" + hotReview3.key, { state: { id: 1, reviewData: hotReview3 }})}>
                     <p>{hotReview3.name}</p>
                 </div>
             </div>
