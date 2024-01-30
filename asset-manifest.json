@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/bookreviewwebsite-v2/static/css/main.05b72f16.css",
-    "main.js": "/bookreviewwebsite-v2/static/js/main.df42bf01.js",
+    "main.css": "/bookreviewwebsite-v2/static/css/main.2f4202bc.css",
+    "main.js": "/bookreviewwebsite-v2/static/js/main.b9962973.js",
     "static/media/ThePragmaticProgrammer.jpg": "/bookreviewwebsite-v2/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/bookreviewwebsite-v2/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/bookreviewwebsite-v2/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -56,11 +56,11 @@
     "static/media/TheCaseofCharlesDexterWard.jpg": "/bookreviewwebsite-v2/static/media/TheCaseofCharlesDexterWard.b765d278cd2a061e12f0.jpg",
     "static/media/FirstPersonSingular.jpg": "/bookreviewwebsite-v2/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/bookreviewwebsite-v2/index.html",
-    "main.05b72f16.css.map": "/bookreviewwebsite-v2/static/css/main.05b72f16.css.map",
-    "main.df42bf01.js.map": "/bookreviewwebsite-v2/static/js/main.df42bf01.js.map"
+    "main.2f4202bc.css.map": "/bookreviewwebsite-v2/static/css/main.2f4202bc.css.map",
+    "main.b9962973.js.map": "/bookreviewwebsite-v2/static/js/main.b9962973.js.map"
   },
   "entrypoints": [
-    "static/css/main.05b72f16.css",
-    "static/js/main.df42bf01.js"
+    "static/css/main.2f4202bc.css",
+    "static/js/main.b9962973.js"
   ]
 }
