@@ -10,9 +10,8 @@
     .heading {
         font-family: 'Benne', serif;
         justify-content: center;
-        background-color: #010B13;
         text-align: center;
-        color: white;
+        color: #010B13;
         font-size: 48px;
 
         @include media {
@@ -33,7 +32,6 @@
         }
 
         .back-button:hover {
-            color: #A44A3F;
             transform: scale(1.1);
             transition: transform 0.1s ease-in-out,opacity 0.5s ease-in-out;
         }
