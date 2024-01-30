@@ -4,6 +4,7 @@ import AboutMeSection from './../AboutMeSection';
 import { Reviews } from "./../../data/reviews";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
+import StarRating from './../StarRating';
 
 const Home = () => {
     const navigate = useNavigate();
@@ -75,7 +76,8 @@ const Home = () => {
                     {
                         userInput.length > 0 ?
                         getMatchedResults().map((item, i) => (    
-                            <div lassName="book" onClick={() => navigate("/diyars-book-reviews/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
+                            <div className="book" onClick={() => navigate("/diyars-book-reviews/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
+                                <StarRating rating={item.rating} />
                                 <img className="book-cover" src={item.images.main} alt={item.name}/>
                             </div>
                         ))
@@ -83,8 +85,11 @@ const Home = () => {
                         :
 
                         Reviews.map((item, i) => (  
-                            <div className={item.content.length > 0 ? "book" : "book unreviewed-book"} onClick={() => navigate("/diyars-book-reviews/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
-                                <img className="book-cover" src={item.images.main} alt={item.name}/>
+                            <div className='vertical-stack'>
+                                <div className={item.content.length > 0 ? "book" : "book unreviewed-book"} onClick={() => navigate("/diyars-book-reviews/reviews" + item.key, { state: { id: 1, reviewData: item }})}>             
+                                    <img className="book-cover" src={item.images.main} alt={item.name}/>
+                                </div>
+                                <StarRating rating={item.rating} />
                             </div>
                         ))
                     }
