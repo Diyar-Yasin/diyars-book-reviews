@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/diyars-book-reviews/static/css/main.beee078a.css",
-    "main.js": "/diyars-book-reviews/static/js/main.d4a2ee78.js",
+    "main.js": "/diyars-book-reviews/static/js/main.af6a1b59.js",
     "static/media/ThePragmaticProgrammer.jpg": "/diyars-book-reviews/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/diyars-book-reviews/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/diyars-book-reviews/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -59,10 +59,10 @@
     "static/media/FirstPersonSingular.jpg": "/diyars-book-reviews/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/diyars-book-reviews/index.html",
     "main.beee078a.css.map": "/diyars-book-reviews/static/css/main.beee078a.css.map",
-    "main.d4a2ee78.js.map": "/diyars-book-reviews/static/js/main.d4a2ee78.js.map"
+    "main.af6a1b59.js.map": "/diyars-book-reviews/static/js/main.af6a1b59.js.map"
   },
   "entrypoints": [
     "static/css/main.beee078a.css",
-    "static/js/main.d4a2ee78.js"
+    "static/js/main.af6a1b59.js"
   ]
 }
