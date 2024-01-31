@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/diyars-book-reviews/static/css/main.97b0f9b5.css",
-    "main.js": "/diyars-book-reviews/static/js/main.dfa309e9.js",
+    "main.css": "/diyars-book-reviews/static/css/main.beee078a.css",
+    "main.js": "/diyars-book-reviews/static/js/main.d4a2ee78.js",
     "static/media/ThePragmaticProgrammer.jpg": "/diyars-book-reviews/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/diyars-book-reviews/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/diyars-book-reviews/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -35,6 +35,7 @@
     "static/media/SweetDark.jpg": "/diyars-book-reviews/static/media/SweetDark.6598ea05432b9d9050ac.jpg",
     "static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.jpg": "/diyars-book-reviews/static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.c55da4880264968a5f90.jpg",
     "static/media/OctoberFilmHaunt.webp": "/diyars-book-reviews/static/media/OctoberFilmHaunt.40000e4fc8bb6b7f6deb.webp",
+    "static/media/Blindness.jpg": "/diyars-book-reviews/static/media/Blindness.03bcb66e204ac10bbf76.jpg",
     "static/media/CitiesOfSalt.jpg": "/diyars-book-reviews/static/media/CitiesOfSalt.2c1e405de921a6f514e7.jpg",
     "static/media/LoveInTheTimeOfCholera.jpg": "/diyars-book-reviews/static/media/LoveInTheTimeOfCholera.f7a0ea0a1e3bc5132280.jpg",
     "static/media/OneBrightMoon.jpg": "/diyars-book-reviews/static/media/OneBrightMoon.58768eb21e91d4a71b73.jpg",
@@ -42,6 +43,7 @@
     "static/media/TokyoGhoulReCover.jpg": "/diyars-book-reviews/static/media/TokyoGhoulReCover.17710fbb589737c1c206.jpg",
     "static/media/Circe.jpg": "/diyars-book-reviews/static/media/Circe.07df6959a73f0b33b6db.jpg",
     "static/media/Pygmalion.jpg": "/diyars-book-reviews/static/media/Pygmalion.40b51ae240b3dee38753.jpg",
+    "static/media/TobaccoRoad.jpg": "/diyars-book-reviews/static/media/TobaccoRoad.a8ec2b9ffae05a30454d.jpg",
     "static/media/TheWarofArt.jpg": "/diyars-book-reviews/static/media/TheWarofArt.470de56bd51b8969e7c3.jpg",
     "static/media/GodsLittleAcre.jpg": "/diyars-book-reviews/static/media/GodsLittleAcre.99de4986e319fe82dd96.jpg",
     "static/media/TheLastDayofaCondemnedMan.jpg": "/diyars-book-reviews/static/media/TheLastDayofaCondemnedMan.1a64d266906c017aceea.jpg",
@@ -56,11 +58,11 @@
     "static/media/TheCaseofCharlesDexterWard.jpg": "/diyars-book-reviews/static/media/TheCaseofCharlesDexterWard.b765d278cd2a061e12f0.jpg",
     "static/media/FirstPersonSingular.jpg": "/diyars-book-reviews/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/diyars-book-reviews/index.html",
-    "main.97b0f9b5.css.map": "/diyars-book-reviews/static/css/main.97b0f9b5.css.map",
-    "main.dfa309e9.js.map": "/diyars-book-reviews/static/js/main.dfa309e9.js.map"
+    "main.beee078a.css.map": "/diyars-book-reviews/static/css/main.beee078a.css.map",
+    "main.d4a2ee78.js.map": "/diyars-book-reviews/static/js/main.d4a2ee78.js.map"
   },
   "entrypoints": [
-    "static/css/main.97b0f9b5.css",
-    "static/js/main.dfa309e9.js"
+    "static/css/main.beee078a.css",
+    "static/js/main.d4a2ee78.js"
   ]
 }
