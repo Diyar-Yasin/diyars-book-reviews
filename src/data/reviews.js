@@ -61,22 +61,22 @@ export const Reviews = [
     "name": "Tobacco Road",
     "author": "Erskine Caldwell",
     "rating": 3,
-    "genres": "",
+    "genres": "Domestic Fiction",
     "images": {
       "main": TOBACCO_ROAD
     },
-    "content": "",
+    "content": "Tobacco Road by Erskine Caldwell lays bare the gritty struggles of the Lester family in Depression-era Georgia. The novel's unfiltered portrayal of poverty hits hard, but some may find the characters bordering on stereotypes and the plot a bit too straightforward. While it effectively captures the harsh reality of its time, it might leave readers craving more depth and complexity in both characters and storyline. A solid depiction of hardship, but it won't be everyone's favorite smoke.",
   },
   {
     "key": "-blindness",
     "name": "Blindness",
     "author": "José Saramago",
     "rating": 4,
-    "genres": "",
+    "genres": "Post-Apocalyptic Fiction, Allegory",
     "images": {
       "main": BLINDNESS
     },
-    "content": "",
+    "content": "In this gripping tale, Saramago delves into the psychological and emotional unraveling of characters facing the fragility of societal norms. Despite the challenging punctuation, the unconventional style intensifies the reader's immersion, making Blindness a profound and unforgettable exploration of human resilience in the face of unprecedented adversity.",
   },
   {
     "key": "-cities-of-salt",
