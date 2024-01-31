@@ -52,8 +52,32 @@ import THERE_ARE_PLACES_IN_THE_WORLD_WHERE_RULES_ARE_LESS_IMPORTANT_THAN_KINDNES
 import OCTOBER_FILM_HAUNT from './../assets/BookCovers/OctoberFilmHaunt.webp';
 import SO_GOOD_THEY_CANT_IGNORE_YOU from './../assets/BookCovers/SoGoodTheyCantIgnoreYou.jpg';
 import CITIES_OF_SALT from './../assets/BookCovers/CitiesOfSalt.jpg';
+import BLINDNESS from './../assets/BookCovers/Blindness.jpg';
+import TOBACCO_ROAD from './../assets/BookCovers/TobaccoRoad.jpg';
 
 export const Reviews = [
+  {
+    "key": "-tobacco-road",
+    "name": "Tobacco Road",
+    "author": "Erskine Caldwell",
+    "rating": 3,
+    "genres": "",
+    "images": {
+      "main": TOBACCO_ROAD
+    },
+    "content": "",
+  },
+  {
+    "key": "-blindness",
+    "name": "Blindness",
+    "author": "José Saramago",
+    "rating": 4,
+    "genres": "",
+    "images": {
+      "main": BLINDNESS
+    },
+    "content": "",
+  },
   {
     "key": "-cities-of-salt",
     "name": "Cities of Salt",
