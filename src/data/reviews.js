@@ -54,8 +54,32 @@ import SO_GOOD_THEY_CANT_IGNORE_YOU from './../assets/BookCovers/SoGoodTheyCantI
 import CITIES_OF_SALT from './../assets/BookCovers/CitiesOfSalt.jpg';
 import BLINDNESS from './../assets/BookCovers/Blindness.jpg';
 import TOBACCO_ROAD from './../assets/BookCovers/TobaccoRoad.jpg';
+import QED from './../assets/BookCovers/QED.jpg'
+import DUNE from './../assets/BookCovers/Dune.jpg'
 
 export const Reviews = [
+  {
+    "key": "-dune",
+    "name": "Dune",
+    "author": "Frank Herbert",
+    "rating": 2.5,
+    "genres": "Science Fiction",
+    "images": {
+      "main": DUNE
+    },
+    "content": "I dislike science fiction. With a made up world comes heaps of exposition to teach you about it. Worse still, they are at liberty to introduce any plot-recorrecting gimmick 400 pages in. Time travel and multiverses are the worst culprits of this.\n\nStill, I gave Dune a chance. If nothing but to be able to watch the recent movies that came out. I was pleasantly surprised with an interesting plot I did not feel cheated by and an arabesque world that was pretty cool. In some sense I felt the author's interpretation of Arabic themes was overly stereotypical, but it did a better job than I was expecting. If you love science fiction this is likely an amazing book for you. In all honesty, for me it wasn’t much.",
+  },
+  {
+    "key": "-qed",
+    "name": "QED: The Strange Theory of Light and Matter",
+    "author": "Richard P. Feynman",
+    "rating": 2,
+    "genres": "Science, Non-Fiction",
+    "images": {
+      "main": QED
+    },
+    "content": "In the Winter of 2024, I took a computer graphics course. What made this course magical for a computer science student was that the topics weren’t only computer science.To talk about drawing 3D objects on a 2D screen one needs a combination of mathematics, physics, the arts, and of course, computer science. Some days we learned about Pixar animations and perspective and others quadruple integrals. The course was so vast one couldn’t cover all the topics deep enough. So when we got on the topic of ray tracing, the computer simulation of how light rays bounce around in the world, my professor mentioned that all our calculations are done at a macro-level. We try to simulate light rays close enough to reality so it looks believable on the screen. To actually simulate light rays perfectly one would need to study quantum electrodynamics. And he footnotes this book.\n\nWhile small, this book is dense and not an easy read. It covers how strangely particles behave at the atomic level, often against common sense. I would recommend you first read a book like Stephen Hawking’s A Brief History of Time to acclimate. Quantum theory is talked about there too, but it’s much easier to digest. At the end of the day this book gets really close to being a textbook. I could only recommend it to the very interested reader.",
+  },
   {
     "key": "-tobacco-road",
     "name": "Tobacco Road",
