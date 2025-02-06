@@ -76,9 +76,11 @@ const Home = () => {
                     {
                         userInput.length > 0 ?
                         getMatchedResults().map((item, i) => (    
-                            <div className="book" onClick={() => navigate("/diyars-book-reviews/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
+                            <div className='vertical-stack'>
+                                <div className={item.content.length > 0 ? "book" : "book unreviewed-book"} onClick={() => navigate("/diyars-book-reviews/reviews" + item.key, { state: { id: 1, reviewData: item }})}>
+                                    <img className="book-cover" src={item.images.main} alt={item.name}/>
+                                </div>
                                 <StarRating rating={item.rating} />
-                                <img className="book-cover" src={item.images.main} alt={item.name}/>
                             </div>
                         ))
 

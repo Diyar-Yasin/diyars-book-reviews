@@ -56,8 +56,20 @@ import BLINDNESS from './../assets/BookCovers/Blindness.jpg';
 import TOBACCO_ROAD from './../assets/BookCovers/TobaccoRoad.jpg';
 import QED from './../assets/BookCovers/QED.jpg'
 import DUNE from './../assets/BookCovers/Dune.jpg'
+import DANTES_INFERNO from './../assets/BookCovers/DantesInferno.jpg';
 
 export const Reviews = [
+  {
+    "key": "-dantes-inferno",
+    "name": "Dante's Inferno",
+    "author": "Dante Alighieri",
+    "rating": 2.75,
+    "genres": "Narrative Poetry",
+    "images": {
+      "main": DANTES_INFERNO
+    },
+    "content": "Mark Musa thoroughly translates this Italian poem for the interested reader. I was not an interested reader. Dante is constantly and obnoxiously referencing Italian historical figures and absolute nobodies. Basically, anyone and everyone who lived in his era. Reading Mark Musa's notes was predominantly to shed light on the random names often thrown around. What especially dated the work was how knowledge of these figures was interlinked with the understanding of the poetry itself. It frustrated me when I caught the underlying symbolism and poetry because its effects were tarnished as I incessantly referred to a Wikipedia of notes suffixing each canto (a canto is a section of a long poem). I am glad the context was there (all thanks to you Mr. Musa), but near the end of the book I just skipped past unknown, uninteresting characters cameoing as Hell's prisoners. This is likely a reality of all older works. They are a product of their time and only certain aspects are truly timeless. According to me, Shakespeare is similarly at fault and yet we regard him as genius. I will say I always looked forward to learning about the next circle of Hell and how Dante would choose to visualize it. That interest spurred me on to the end of the book. As an aside from the critique of the book, why is Euclid stuck in endless nothingness at the outermost layer of Hell? All the while, people who decided, at the end of their lives, to finally repent for their many sins eventually go to Heaven?"
+  },
   {
     "key": "-dune",
     "name": "Dune",
