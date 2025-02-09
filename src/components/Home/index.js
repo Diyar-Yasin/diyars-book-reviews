@@ -1,6 +1,5 @@
 import './index.scss';
 import HotNowSection from './../HotNowSection';
-import AboutMeSection from './../AboutMeSection';
 import { Reviews } from "./../../data/reviews";
 import { useState, useEffect } from "react";
 import { useNavigate } from "react-router-dom";
@@ -63,8 +62,7 @@ const Home = () => {
             </div>
             
             <HotNowSection/>
-            <AboutMeSection/>
-            
+
             <div className="search">
                 <div className="search-inner">
                     <input className={searchResultsExist ? "search-text-box-results" : "search-text-box-no-results"} value={userInput} placeholder="Search for books by title" onChange={e => (handleChange(e.target.value))}/>
