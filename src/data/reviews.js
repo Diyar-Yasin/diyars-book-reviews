@@ -57,8 +57,20 @@ import TOBACCO_ROAD from './../assets/BookCovers/TobaccoRoad.jpg';
 import QED from './../assets/BookCovers/QED.jpg'
 import DUNE from './../assets/BookCovers/Dune.jpg'
 import DANTES_INFERNO from './../assets/BookCovers/DantesInferno.jpg';
+import TESS_OF_THE_DURBERVILLES from './../assets/BookCovers/TessOfTheDurbervilles.jpg';
 
 export const Reviews = [
+  {
+    "key": "-tess-of-the-durbervilles",
+    "name": "Tess of the D'Urbervilles",
+    "author": "Thomas Hardy",
+    "rating": 4.25,
+    "genres": "Social drama",
+    "images": {
+      "main": TESS_OF_THE_DURBERVILLES
+    },
+    "content": "This is the best classic I’ve read in a while. There are two reasons for this. First, as much as I hold a high nose towards romantic dramas, they are my guilty pleasure. Secondly, Hardy sets scenes that urge you to stop and stare. It’s around this time, solidified by Hardy’s writing, that I’d come to the conclusion I need to take notes in the books I read. If not to simply find examples of his expert prose. One excerpt I enjoyed went, “It was a hazy sunrise in August. The denser nocturnal vapours attacked by the warm beams, were dividing and shrinking into isolated fleeces within hollows and coverts, where they waited till they should be dried away to nothing.”"
+  },
   {
     "key": "-dantes-inferno",
     "name": "Dante's Inferno",
