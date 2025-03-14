@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/diyars-book-reviews/static/css/main.9c2d514e.css",
-    "main.js": "/diyars-book-reviews/static/js/main.c70a4160.js",
+    "main.js": "/diyars-book-reviews/static/js/main.f6a82823.js",
     "static/media/ThePragmaticProgrammer.jpg": "/diyars-book-reviews/static/media/ThePragmaticProgrammer.e22d39e010d1645ea390.jpg",
     "static/media/TheSongOfAchilles.jpg": "/diyars-book-reviews/static/media/TheSongOfAchilles.6e2af41ce9a6218e68ae.jpg",
     "static/media/ABriefHistoryOfTime.jpg": "/diyars-book-reviews/static/media/ABriefHistoryOfTime.d86de3a9b56e6d42dc89.jpg",
@@ -37,6 +37,7 @@
     "static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.jpg": "/diyars-book-reviews/static/media/ThereArePlacesInTheWorldWhereRulesAreLessImportantThanKindness.c55da4880264968a5f90.jpg",
     "static/media/OctoberFilmHaunt.webp": "/diyars-book-reviews/static/media/OctoberFilmHaunt.40000e4fc8bb6b7f6deb.webp",
     "static/media/QED.jpg": "/diyars-book-reviews/static/media/QED.b1114fbeb677aa116dcb.jpg",
+    "static/media/TessOfTheDurbervilles.jpg": "/diyars-book-reviews/static/media/TessOfTheDurbervilles.bb61a5ae3be9a3f4fdbc.jpg",
     "static/media/Blindness.jpg": "/diyars-book-reviews/static/media/Blindness.03bcb66e204ac10bbf76.jpg",
     "static/media/CitiesOfSalt.jpg": "/diyars-book-reviews/static/media/CitiesOfSalt.2c1e405de921a6f514e7.jpg",
     "static/media/Dune.jpg": "/diyars-book-reviews/static/media/Dune.023fd2ad8d5e2c9b5c26.jpg",
@@ -62,10 +63,10 @@
     "static/media/FirstPersonSingular.jpg": "/diyars-book-reviews/static/media/FirstPersonSingular.2b44c6a80eeba6903d45.jpg",
     "index.html": "/diyars-book-reviews/index.html",
     "main.9c2d514e.css.map": "/diyars-book-reviews/static/css/main.9c2d514e.css.map",
-    "main.c70a4160.js.map": "/diyars-book-reviews/static/js/main.c70a4160.js.map"
+    "main.f6a82823.js.map": "/diyars-book-reviews/static/js/main.f6a82823.js.map"
   },
   "entrypoints": [
     "static/css/main.9c2d514e.css",
-    "static/js/main.c70a4160.js"
+    "static/js/main.f6a82823.js"
   ]
 }
