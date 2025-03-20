@@ -58,8 +58,20 @@ import QED from './../assets/BookCovers/QED.jpg'
 import DUNE from './../assets/BookCovers/Dune.jpg'
 import DANTES_INFERNO from './../assets/BookCovers/DantesInferno.jpg';
 import TESS_OF_THE_DURBERVILLES from './../assets/BookCovers/TessOfTheDurbervilles.jpg';
+import ON_THE_SHORTNESS_OF_LIFE from './../assets/BookCovers/OnTheShortnessOfLife.jpg';
 
 export const Reviews = [
+  {
+    "key": "-on-the-shortness-of-life",
+    "name": "On the Shortness of Life",
+    "author": "Seneca",
+    "rating": 4,
+    "genres": "Philosophy",
+    "images": {
+      "main": ON_THE_SHORTNESS_OF_LIFE
+    },
+    "content": "This book came at a good time. The past year I've been trying to savor the moments and be present, especially since it would be my last year as a university student. What this led to was a feeling of anemoia. Anemoia is recognizing that you are in the moment, and feeling a sense of longing or nostalgia for the now. Seneca helped me recognize that this was not enjoying the moment. \"Even their pleasures are uneasy and made anxious by various fears, and at the very height of their rejoicing the worrying thought steals over them: 'How long will this last?'\" He also made it painfully clear that I must tread carefully so as to not engulf myself completely with work. That I worked anxiously and hard in high school and anxiously and hard still in university just to work further anxiously and harder yet as an employee is the burning of my short life. \"So it is inevitable that life will be not just very short but very miserable for those who acquire by great toil what they must keep by greater toil.\""
+  },
   {
     "key": "-tess-of-the-durbervilles",
     "name": "Tess of the D'Urbervilles",
