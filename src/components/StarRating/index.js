@@ -26,11 +26,11 @@ const StarRating = ({ rating }) => {
     }
 
     const fullStars = Math.floor(rating)
-    for (var i = 0; i < fullStars; i++) {
-        stars[i] = <span 
+    for (var j = 0; j < fullStars; j++) {
+        stars[j] = <span 
             class="fa fa-star star-filled"
             style={{ 
-                left: `${i * STAR_PADDING}px`,
+                left: `${j * STAR_PADDING}px`,
                 clipPath: `inset(0% 0% 0% 0%)`,
             }}
         />;
