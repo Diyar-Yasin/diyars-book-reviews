@@ -12,7 +12,7 @@ import THE_ODYSSEY from './../assets/BookCovers/TheOdyssey.jpg';
 import THE_SILENT_PATIENT from './../assets/BookCovers/TheSilentPatient.jpg';
 import THE_SUBTLE_ART_OF_NOT_GIVING_A_FUCK from './../assets/BookCovers/TheSubtleArtOfNotGivingAFuck.jpg';
 import UNCLE_TOMS_CABIN from './../assets/BookCovers/UncleTom\'sCabin.jpg';
-import A_WILD_SHEEP_CHASE from './../assets/BookCovers/A Wild Sheep Chase.jpg';
+import A_WILD_SHEEP_CHASE from './../assets/BookCovers/AWildSheepChase.jpg';
 import CIRCE from './../assets/BookCovers/Circe.jpg';
 import EXHALATION from './../assets/BookCovers/Exhalation.jpg';
 import KLARA_AND_THE_SUN from './../assets/BookCovers/KlaraAndTheSun.png';
@@ -54,8 +54,8 @@ import SO_GOOD_THEY_CANT_IGNORE_YOU from './../assets/BookCovers/SoGoodTheyCantI
 import CITIES_OF_SALT from './../assets/BookCovers/CitiesOfSalt.jpg';
 import BLINDNESS from './../assets/BookCovers/Blindness.jpg';
 import TOBACCO_ROAD from './../assets/BookCovers/TobaccoRoad.jpg';
-import QED from './../assets/BookCovers/QED.jpg'
-import DUNE from './../assets/BookCovers/Dune.jpg'
+import QED from './../assets/BookCovers/QED.jpg';
+import DUNE from './../assets/BookCovers/Dune.jpg';
 import DANTES_INFERNO from './../assets/BookCovers/DantesInferno.jpg';
 import TESS_OF_THE_DURBERVILLES from './../assets/BookCovers/TessOfTheDurbervilles.jpg';
 import ON_THE_SHORTNESS_OF_LIFE from './../assets/BookCovers/OnTheShortnessOfLife.jpg';
