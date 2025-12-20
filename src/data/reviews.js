@@ -59,8 +59,44 @@ import DUNE from './../assets/BookCovers/Dune.jpg';
 import DANTES_INFERNO from './../assets/BookCovers/DantesInferno.jpg';
 import TESS_OF_THE_DURBERVILLES from './../assets/BookCovers/TessOfTheDurbervilles.jpg';
 import ON_THE_SHORTNESS_OF_LIFE from './../assets/BookCovers/OnTheShortnessOfLife.jpg';
+import THE_CHEAPEST_NIGHTS from './../assets/BookCovers/TheCheapestNights.jpg';
+import WHAT_THE_LIVING_DO from './../assets/BookCovers/WhatTheLivingDo.jpg';
+import NEVER_LET_ME_GO from './../assets/BookCovers/NeverLetMeGo.jpg';
 
 export const Reviews = [
+  {
+    "key": "-never-let-me-go",
+    "name": "Never Let Me Go",
+    "author": "Kazuo Ishiguro",
+    "rating": 4.25,
+    "genres": "Science Fiction",
+    "images": {
+      "main": NEVER_LET_ME_GO 
+    },
+    "content": "Ishiguro is amazing every time I read him. 100 pages in and he provides enough context to understand exactly what is going on without explicitly saying a thing. His characters are full and unique. For example, I had a distaste for Ruth throughout the majority of the book. In the final few chapters, Kazuo finally backs up my hunch with a good reason as to why I shouldn't like her. Yet I found she became a much more well rounded character, and while I still don't like Ruth, I could respect her. I will often give at least 4 stars to a book that makes me emotional and this is no exception. Kathy waltzing with her pillow made me tear up.",
+  },
+  {
+    "key": "-what-the-living-do",
+    "name": "What the Living Do",
+    "author": "Marie Howe",
+    "rating": 3.5,
+    "genres": "Poetry",
+    "images": {
+      "main": WHAT_THE_LIVING_DO 
+    },
+    "content": "I'm glad I continue coming back to poetry. What the Living Do has been the best example of the genre I've read to date. Marie struck the perfect balance of subtleness and intelligibility. She neither spells out the themes of her work in plain text, nor does she make you feel too dumb to piece together her message. All other poetry I've read has spilled over to one of these two extremes."
+  },
+  {
+    "key": "-the-cheapest-nights",
+    "name": "The Cheapest Nights",
+    "author": "Yusuf Idris",
+    "rating": 2,
+    "genres": "Fiction",
+    "images": {
+      "main": THE_CHEAPEST_NIGHTS 
+    },
+    "content": "This collection of Egyptian short stories is what made me realize most translated books will never live up to their native language. Reading Yusuf's stories stories was like exploring a small town through binoculars rather than physically being there. My criticism is thus more on the translator than the author. One interesting detail I noticed was Yusuf's (and the majority of the muslim world's) poor opinion of Shia muslims. On a hunt to get back the watch that was stolen from him by his maid, the protagonist journies through the poor parts of his city and finds, inside his maids home, a picture of the Prophet Ali beheading someone on horseback. The Prophet Ali is prominent in the Shia sect and is NOT known to be some cold blooded murderer. It was one of the first times I've been able to catch author bias.",
+  },
   {
     "key": "-on-the-shortness-of-life",
     "name": "On the Shortness of Life",
